@@ -1,6 +1,6 @@
 [gd_resource type="TileSet" load_steps=3 format=3 uid="uid://cbrm6tgdqdd1f"]
 
-[ext_resource type="Texture2D" uid="uid://dt6q68ph06ic3" path="res://addons/kenney pixel platformer/background/tilemap_packed.png" id="1_p5l2l"]
+[ext_resource type="Texture2D" uid="uid://dt6q68ph06ic3" path="res://assets/Kenny's Pixel Platformer/addons/kenney pixel platformer/background/tilemap_packed.png" id="1_p5l2l"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_1uc1a"]
 texture = ExtResource("1_p5l2l")

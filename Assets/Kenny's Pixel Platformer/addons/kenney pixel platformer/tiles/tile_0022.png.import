@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://duyus4oq3ygar"
-path="res://.godot/imported/tile_0022.png-afd61b1890d6a4a538eaefc56d1bf4cb.ctex"
+path="res://.godot/imported/tile_0022.png-aa72527466588d45e74bb759ed957991.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny's Pixel Platformer/addons/kenney pixel platformer/tiles/tile_0022.png"
-dest_files=["res://.godot/imported/tile_0022.png-afd61b1890d6a4a538eaefc56d1bf4cb.ctex"]
+source_file="res://assets/Kenny's Pixel Platformer/addons/kenney pixel platformer/tiles/tile_0022.png"
+dest_files=["res://.godot/imported/tile_0022.png-aa72527466588d45e74bb759ed957991.ctex"]
 
 [params]
 
