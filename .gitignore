@@ -1,0 +1,25 @@
+# Godot 4 specific ignores
+.godot/            # Godot editor settings and cache
+.import/           # Godot auto-generated import files
+.export/           # Exported builds (should not be version-controlled)
+
+# Ignore temporary or generated files
+*.translation
+*.stex
+*.gen.*
+*.msh
+*.material
+*.tscn.converted.scn
+*.gltf.import
+
+# Ignore user-specific files
+*.cfg
+*.pck
+*.log
+
+# OS-specific files (Windows, macOS)
+.DS_Store
+Thumbs.db
+
+# Ignore Android build folder if developing for Android
+/android/
