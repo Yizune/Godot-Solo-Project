@@ -1,0 +1,63 @@
+[gd_scene load_steps=10 format=3 uid="uid://b0brkh4l6iwt0"]
+
+[ext_resource type="Texture2D" uid="uid://b0tkc3ku8np6k" path="res://assets/mystic_woods_free_2.2/sprites/characters/player.png" id="1_hedmw"]
+[ext_resource type="Script" path="res://scripts/player.gd" id="2_1vuh5"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_3ifj8"]
+atlas = ExtResource("1_hedmw")
+region = Rect2(0, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_eebvl"]
+atlas = ExtResource("1_hedmw")
+region = Rect2(48, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_vwhej"]
+atlas = ExtResource("1_hedmw")
+region = Rect2(96, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_nw1mc"]
+atlas = ExtResource("1_hedmw")
+region = Rect2(144, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_bbiqa"]
+atlas = ExtResource("1_hedmw")
+region = Rect2(192, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_3scca"]
+atlas = ExtResource("1_hedmw")
+region = Rect2(240, 0, 48, 48)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_6prev"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_3ifj8")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_eebvl")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_vwhej")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_nw1mc")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bbiqa")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_3scca")
+}],
+"loop": true,
+"name": &"front_idle",
+"speed": 5.0
+}]
+
+[node name="Player" type="CharacterBody2D"]
+script = ExtResource("2_1vuh5")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_6prev")
+animation = &"front_idle"
