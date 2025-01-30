@@ -1,14 +1,15 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1738220102
-::res://assets/::1738220102
+::res://::1738231796
+global.gd::GDScript::-1::1738231796::0::1::::<>Node<>::
+::res://assets/::1738229743
 icon.svg::CompressedTexture2D::7554459837812024820::1738138507::1738151912::1::::<><>::
-::res://assets/0x72_DungeonTilesetII_v1.7/::1738220036
+::res://assets/0x72_DungeonTilesetII_v1.7/::1738220118
 doc.png::CompressedTexture2D::8322837865055176601::1738151228::1738220118::1::::<><>::
 pumpkin_dude.png::CompressedTexture2D::7932758454667559624::1738151229::1738220118::1::::<><>::
 ::res://assets/0x72_DungeonTilesetII_v1.7/__MACOSX/::1738220007
-::res://assets/0x72_DungeonTilesetII_v1.7/__MACOSX/0x72_DungeonTilesetII_v1.7/::1738220007
+::res://assets/0x72_DungeonTilesetII_v1.7/__MACOSX/0x72_DungeonTilesetII_v1.7/::1738220121
 ._0x72_DungeonTilesetII_v1.7.png::CompressedTexture2D::5307286861150345492::1738220007::1738220121::0::::<><>::
-::res://assets/0x72_DungeonTilesetII_v1.7/__MACOSX/0x72_DungeonTilesetII_v1.7/frames/::1738220009
+::res://assets/0x72_DungeonTilesetII_v1.7/__MACOSX/0x72_DungeonTilesetII_v1.7/frames/::1738220121
 ._angel_idle_anim_f0.png::CompressedTexture2D::8812517834861522959::1738220008::1738220120::0::::<><>::
 ._angel_idle_anim_f1.png::CompressedTexture2D::4862667018233528278::1738220007::1738220120::0::::<><>::
 ._angel_idle_anim_f2.png::CompressedTexture2D::7118115861433526609::1738220007::1738220120::0::::<><>::
@@ -379,12 +380,12 @@ pumpkin_dude.png::CompressedTexture2D::7932758454667559624::1738151229::17382201
 ._zombie_anim_f2.png::CompressedTexture2D::5232617201238767704::1738220007::1738220121::0::::<><>::
 ._zombie_anim_f3.png::CompressedTexture2D::7690974950744159069::1738220007::1738220121::0::::<><>::
 ._zombie_anim_f10.png::CompressedTexture2D::3595808550490080534::1738220008::1738220121::0::::<><>::
-::res://assets/0x72_DungeonTilesetII_v1.7/0x72_DungeonTilesetII_v1.7/::1738220004
+::res://assets/0x72_DungeonTilesetII_v1.7/0x72_DungeonTilesetII_v1.7/::1738220118
 0x72_DungeonTilesetII_v1.7.png::CompressedTexture2D::6572375393761545228::1738220004::1738220118::1::::<><>::
 atlas_floor-16x16.png::CompressedTexture2D::4687409924912310216::1738220004::1738220118::1::::<><>::
 atlas_walls_high-16x32.png::CompressedTexture2D::1655804553785411535::1738220004::1738220118::1::::<><>::
 atlas_walls_low-16x16.png::CompressedTexture2D::313907719215423199::1738220004::1738220118::1::::<><>::
-::res://assets/0x72_DungeonTilesetII_v1.7/0x72_DungeonTilesetII_v1.7/frames/::1738220007
+::res://assets/0x72_DungeonTilesetII_v1.7/0x72_DungeonTilesetII_v1.7/frames/::1738220121
 angel_idle_anim_f0.png::CompressedTexture2D::3001618819820453326::1738220005::1738220121::1::::<><>::
 angel_idle_anim_f1.png::CompressedTexture2D::2008809003342499586::1738220005::1738220121::1::::<><>::
 angel_idle_anim_f2.png::CompressedTexture2D::5158546273812936507::1738220004::1738220121::1::::<><>::
@@ -1286,103 +1287,166 @@ Terms.txt::TextFile::-1::1738220089::0::1::::<><>::
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/::1738220090
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/::1738220090
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc/::1738220090
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc/Death/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc/Death/::1738220118
 Death-Sheet.png::CompressedTexture2D::1365744992961911267::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc/Idle/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc/Idle/::1738220118
 Idle-Sheet.png::CompressedTexture2D::1243692362104384220::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc/Run/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc/Run/::1738220118
 Run-Sheet.png::CompressedTexture2D::771528600842514199::1738220090::1738220118::1::::<><>::
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Rogue/::1738220089
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Rogue/Death/::1738220089
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Rogue/Death/::1738220118
 Death-Sheet.png::CompressedTexture2D::1633157826604210981::1738220089::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Rogue/Idle/::1738220089
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Rogue/Idle/::1738220118
 Idle-Sheet.png::CompressedTexture2D::5550795513651290555::1738220089::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Rogue/Run/::1738220089
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Rogue/Run/::1738220118
 Run-Sheet.png::CompressedTexture2D::2215378960022427780::1738220089::1738220118::1::::<><>::
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Shaman/::1738220089
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Shaman/Death/::1738220089
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Shaman/Death/::1738220118
 Death-Sheet.png::CompressedTexture2D::5895172400282210195::1738220089::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Shaman/Idle/::1738220089
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Shaman/Idle/::1738220118
 Idle-Sheet.png::CompressedTexture2D::4548607315228379622::1738220089::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Shaman/Run/::1738220089
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Shaman/Run/::1738220118
 Run-Sheet.png::CompressedTexture2D::1812094385782921429::1738220089::1738220118::1::::<><>::
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Warrior/::1738220089
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Warrior/Death/::1738220089
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Warrior/Death/::1738220118
 Death-Sheet.png::CompressedTexture2D::3364118250378782147::1738220089::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Warrior/Idle/::1738220089
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Warrior/Idle/::1738220118
 Idle-Sheet.png::CompressedTexture2D::717166686690874731::1738220089::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Warrior/Run/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Orc Crew/Orc - Warrior/Run/::1738220118
 Run-Sheet.png::CompressedTexture2D::2253283971368985292::1738220090::1738220118::1::::<><>::
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/::1738220090
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Base/::1738220090
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Base/Death/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Base/Death/::1738220118
 Death-Sheet.png::CompressedTexture2D::2819801096909056475::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Base/Idle/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Base/Idle/::1738220118
 Idle-Sheet.png::CompressedTexture2D::2788640618551209590::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Base/Run/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Base/Run/::1738220118
 Run-Sheet.png::CompressedTexture2D::8594654576141042761::1738220090::1738220118::1::::<><>::
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Mage/::1738220090
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Mage/Death/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Mage/Death/::1738220118
 Death-Sheet.png::CompressedTexture2D::2808501319970513344::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Mage/Idle/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Mage/Idle/::1738220118
 Idle-Sheet.png::CompressedTexture2D::8629538072294980943::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Mage/Run/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Mage/Run/::1738220118
 Run-Sheet.png::CompressedTexture2D::1667387276185127395::1738220090::1738220118::1::::<><>::
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Rogue/::1738220090
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Rogue/Death/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Rogue/Death/::1738220118
 Death-Sheet.png::CompressedTexture2D::8598105470407235543::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Rogue/Idle/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Rogue/Idle/::1738220118
 Idle-Sheet.png::CompressedTexture2D::5995319764597277530::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Rogue/Run/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Rogue/Run/::1738220118
 Run-Sheet.png::CompressedTexture2D::7083995801332865674::1738220090::1738220118::1::::<><>::
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Warrior/::1738220090
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Warrior/Death/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Warrior/Death/::1738220118
 Death-Sheet.png::CompressedTexture2D::6012561353454136804::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Warrior/Idle/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Warrior/Idle/::1738220118
 Idle-Sheet.png::CompressedTexture2D::2226628987949357698::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Warrior/Run/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Warrior/Run/::1738220118
 Run-Sheet.png::CompressedTexture2D::7983807490600193901::1738220090::1738220118::1::::<><>::
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Environment/::1738220090
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Environment/Dungeon Prison/::1738220090
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Environment/Dungeon Prison/Assets/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Environment/Dungeon Prison/Assets/::1738220118
 Props.png::CompressedTexture2D::210748510172560193::1738220090::1738220118::1::::<><>::
 Tiles.png::CompressedTexture2D::4458879082001085366::1738220090::1738220118::1::::<><>::
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Environment/Green Woods/::1738220090
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Environment/Green Woods/Assets/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Environment/Green Woods/Assets/::1738220118
 Props.png::CompressedTexture2D::6367023007518231544::1738220090::1738220118::1::::<><>::
 Tiles.png::CompressedTexture2D::5480806997678693630::1738220090::1738220118::1::::<><>::
 Trees.png::CompressedTexture2D::6092090964956983632::1738220090::1738220118::1::::<><>::
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/::1738220090
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Knight/::1738220090
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Knight/Death/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Knight/Death/::1738220118
 Death-Sheet.png::CompressedTexture2D::8219211226713208288::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Knight/Idle/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Knight/Idle/::1738220118
 Idle-Sheet.png::CompressedTexture2D::8172972302975752875::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Knight/Run/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Knight/Run/::1738220118
 Run-Sheet.png::CompressedTexture2D::2374535131258440462::1738220090::1738220118::1::::<><>::
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Rogue/::1738220090
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Rogue/Death/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Rogue/Death/::1738220118
 Death-Sheet.png::CompressedTexture2D::5429879296368378656::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Rogue/Idle/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Rogue/Idle/::1738220118
 Idle-Sheet.png::CompressedTexture2D::771483859290139897::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Rogue/Run/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Rogue/Run/::1738220118
 Run-Sheet.png::CompressedTexture2D::4106389872494547718::1738220090::1738220118::1::::<><>::
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Wizzard/::1738220090
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Wizzard/Death/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Wizzard/Death/::1738220118
 Death-Sheet.png::CompressedTexture2D::5469146434026435982::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Wizzard/Idle/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Wizzard/Idle/::1738220118
 Idle-Sheet.png::CompressedTexture2D::2250092173074251047::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Wizzard/Run/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Heroes/Wizzard/Run/::1738220118
 Run-Sheet.png::CompressedTexture2D::4195375633544918104::1738220090::1738220118::1::::<><>::
 ::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Weapons/::1738220090
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Weapons/Bone/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Weapons/Bone/::1738220118
 Bone.png::CompressedTexture2D::1917041418121798243::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Weapons/Hands/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Weapons/Hands/::1738220118
 Hands.png::CompressedTexture2D::2004246114533780163::1738220090::1738220118::1::::<><>::
-::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Weapons/Wood/::1738220090
+::res://assets/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Weapons/Wood/::1738220118
 Wood.png::CompressedTexture2D::452088432663265550::1738220090::1738220118::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/::1738229725
+::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/::1738229725
+::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Arrow(Projectile)/::1738229748
+Arrow01(32x32).png::CompressedTexture2D::3281928684625746496::1738229725::1738229748::1::::<><>::
+Arrow01(100x100).png::CompressedTexture2D::602733097645548881::1738229725::1738229748::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Aseprite file/::1738229725
+::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/::1738229725
+::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Orc/::1738229725
+::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Orc/Orc/::1738229748
+Orc-Attack01.png::CompressedTexture2D::6002029417970778322::1738229725::1738229748::1::::<><>::
+Orc-Attack02.png::CompressedTexture2D::7866826428784466823::1738229725::1738229748::1::::<><>::
+Orc-Death.png::CompressedTexture2D::6927482785795549745::1738229725::1738229748::1::::<><>::
+Orc-Hurt.png::CompressedTexture2D::2900020942817855670::1738229725::1738229748::1::::<><>::
+Orc-Idle.png::CompressedTexture2D::4458533948771139578::1738229725::1738229748::1::::<><>::
+Orc-Walk.png::CompressedTexture2D::4252796407686640135::1738229725::1738229748::1::::<><>::
+Orc.png::CompressedTexture2D::2552989996567895910::1738229725::1738229748::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Orc/Orc/Shadow sprites/::1738229748
+Orc-shadow.png::CompressedTexture2D::2861706528051526759::1738229725::1738229748::1::::<><>::
+Orc-shadow_attack02.png::CompressedTexture2D::7956815682336089142::1738229725::1738229748::1::::<><>::
+Orc-shadow_death.png::CompressedTexture2D::4394315050244985682::1738229725::1738229748::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Orc/Orc with shadows/::1738229748
+Orc-Attack01.png::CompressedTexture2D::3936370988356997562::1738229725::1738229748::1::::<><>::
+Orc-Attack02.png::CompressedTexture2D::2159675586115751091::1738229725::1738229748::1::::<><>::
+Orc-Death.png::CompressedTexture2D::305808524305727196::1738229725::1738229748::1::::<><>::
+Orc-Hurt.png::CompressedTexture2D::2088410770505094459::1738229725::1738229748::1::::<><>::
+Orc-Idle.png::CompressedTexture2D::4734042567834094195::1738229725::1738229748::1::::<><>::
+Orc-Walk.png::CompressedTexture2D::481123091110811327::1738229725::1738229748::1::::<><>::
+Orc.png::CompressedTexture2D::7030030353853657405::1738229725::1738229748::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Orc/Orc(Split Effects)/::1738229748
+Orc-attack01_Effect.png::CompressedTexture2D::6606887082015309763::1738229725::1738229748::1::::<><>::
+Orc-attack02_Effect.png::CompressedTexture2D::8077932541943721742::1738229725::1738229748::1::::<><>::
+Orc.png::CompressedTexture2D::4016098306115364539::1738229725::1738229748::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/::1738229726
+::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Arrow(projectile)/::1738229748
+Arrow01(32x32).png::CompressedTexture2D::5482150756950850518::1738229725::1738229748::1::::<><>::
+Arrow01(100x100).png::CompressedTexture2D::8556446313525173285::1738229725::1738229748::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier/::1738229748
+Soldier-Attack01.png::CompressedTexture2D::8653368014899017767::1738229725::1738229748::1::::<><>::
+Soldier-Attack02.png::CompressedTexture2D::7774839804577441921::1738229725::1738229748::1::::<><>::
+Soldier-Attack03.png::CompressedTexture2D::5978135444767096544::1738229725::1738229748::1::::<><>::
+Soldier-Death.png::CompressedTexture2D::9135258454395568936::1738229725::1738229748::1::::<><>::
+Soldier-Hurt.png::CompressedTexture2D::6757904146937542313::1738229725::1738229748::1::::<><>::
+Soldier-Idle.png::CompressedTexture2D::5192865788277323001::1738229725::1738229748::1::::<><>::
+Soldier-Shadow_attack2.png::CompressedTexture2D::1706748104566390920::1738229725::1738229748::1::::<><>::
+Soldier-Walk.png::CompressedTexture2D::4058167249403217179::1738229725::1738229748::1::::<><>::
+Soldier.png::CompressedTexture2D::1316506301169883582::1738229725::1738229748::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier/Shadow sprites/::1738229748
+Soldier-Shadow.png::CompressedTexture2D::1158266854644443146::1738229725::1738229748::1::::<><>::
+Soldier-Shadow_death.png::CompressedTexture2D::8059375279145775147::1738229725::1738229748::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier with shadows/::1738229748
+Soldier-Attack01.png::CompressedTexture2D::7984575223879165862::1738229725::1738229748::1::::<><>::
+Soldier-Attack02.png::CompressedTexture2D::6509249651541254536::1738229725::1738229748::1::::<><>::
+Soldier-Attack03.png::CompressedTexture2D::3233573434001960851::1738229725::1738229748::1::::<><>::
+Soldier-Death.png::CompressedTexture2D::1041881476016953483::1738229725::1738229748::1::::<><>::
+Soldier-Hurt.png::CompressedTexture2D::5059255818252496317::1738229725::1738229748::1::::<><>::
+Soldier-Idle.png::CompressedTexture2D::4837802358336052374::1738229725::1738229748::1::::<><>::
+Soldier-Walk.png::CompressedTexture2D::1553820771146977425::1738229726::1738229748::1::::<><>::
+Soldier.png::CompressedTexture2D::3748046246333618747::1738229726::1738229748::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier(Split Effects)/::1738229748
+Soldier-Attack01_Effect.png::CompressedTexture2D::6993662885396799540::1738229726::1738229748::1::::<><>::
+Soldier-Attack02_Effect.png::CompressedTexture2D::2168136517734491529::1738229726::1738229748::1::::<><>::
+Soldier-Attack03_Effect.png::CompressedTexture2D::4384457208390051680::1738229726::1738229748::1::::<><>::
+Soldier.png::CompressedTexture2D::9100044214415062028::1738229726::1738229748::1::::<><>::
 ::res://assets/Tiny Swords/::1738171740
-::res://assets/Tiny Swords/__MACOSX/::1738171740
+::res://assets/Tiny Swords/__MACOSX/::1738228937
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/::1738171741
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Effects/::1738171741
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Effects/Explosion/::1738171741
@@ -1404,18 +1468,18 @@ Wood.png::CompressedTexture2D::452088432663265550::1738220090::1738220118::1::::
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Blue/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Purple/::1738171740
-::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Red/::1738171740
+::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Red/::1738220118
 ._Torch_Red.png::CompressedTexture2D::1343570162173335339::1738171740::1738220118::0::::<><>::
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Yellow/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Buildings/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/::1738171740
-::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Buildings/House/::1738171740
+::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Buildings/House/::1738220118
 ._House_Destroyed.png::CompressedTexture2D::8564218856590673905::1738171740::1738220118::0::::<><>::
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/::1738171740
-::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/::1738171740
+::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/::1738220118
 ._Archer_Blue_(NoArms).png::CompressedTexture2D::7715915913205059323::1738171740::1738220118::0::::<><>::
 ._Archer_Bow_Blue.png::CompressedTexture2D::7240922743548332900::1738171740::1738220118::0::::<><>::
 ._Archer_Bow_Purple.png::CompressedTexture2D::7335820729891256958::1738171740::1738220118::0::::<><>::
@@ -1431,38 +1495,38 @@ Wood.png::CompressedTexture2D::452088432663265550::1738220090::1738220118::1::::
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Yellow/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Dead/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/::1738171740
-::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Blue/::1738171740
+::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Blue/::1738220118
 ._Pawn_Blue.png::CompressedTexture2D::3192431480352894792::1738171740::1738220118::0::::<><>::
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Purple/::1738171740
-::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Red/::1738171740
+::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Red/::1738220118
 ._Pawn_Red.png::CompressedTexture2D::1973010778814020129::1738171740::1738220118::0::::<><>::
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Yellow/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/::1738171741
-::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Blue/::1738171741
+::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Blue/::1738220118
 ._Warrior_Blue.png::CompressedTexture2D::664695447829063047::1738171741::1738220118::0::::<><>::
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Purple/::1738171741
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Red/::1738171741
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Yellow/::1738171741
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Resources/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Resources/Gold Mine/::1738171740
-::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Resources/Resources/::1738171740
+::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Resources/Resources/::1738220118
 ._W_Idle_(NoShadow).png::CompressedTexture2D::1911861196633551753::1738171740::1738220118::0::::<><>::
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Resources/Sheep/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Resources/Trees/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Terrain/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Terrain/Bridge/::1738171740
-::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Terrain/Ground/::1738171740
+::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Terrain/Ground/::1738220118
 ._Tilemap_Flat.png::CompressedTexture2D::3228076737836732247::1738171740::1738220118::0::::<><>::
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Terrain/Water/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Terrain/Water/Foam/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/Terrain/Water/Rocks/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/UI/::1738171740
 ::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/UI/Banners/::1738171740
-::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/UI/Icons/::1738171740
+::res://assets/Tiny Swords/__MACOSX/Tiny Swords (Update 010)/UI/Icons/::1738220118
 ._Pressed_07.png::CompressedTexture2D::7973441537957818500::1738171740::1738220118::0::::<><>::
 ._Regular_07.png::CompressedTexture2D::5990108822862099900::1738171740::1738220118::0::::<><>::
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/::1738171740
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Deco/::1738171738
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Deco/::1738220118
 01.png::CompressedTexture2D::7669569282067879134::1738171738::1738220118::1::::<><>::
 02.png::CompressedTexture2D::7563717593787707011::1738171738::1738220118::1::::<><>::
 03.png::CompressedTexture2D::3458830905626606558::1738171738::1738220118::1::::<><>::
@@ -1482,17 +1546,17 @@ Wood.png::CompressedTexture2D::452088432663265550::1738220090::1738220118::1::::
 17.png::CompressedTexture2D::4376632005546795689::1738171738::1738220118::1::::<><>::
 18.png::CompressedTexture2D::49030099741878612::1738171738::1738220118::1::::<><>::
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/Effects/::1738171740
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Effects/Explosion/::1738171740
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Effects/Explosion/::1738220118
 Explosions.png::CompressedTexture2D::9114484876436004815::1738171740::1738220118::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Effects/Fire/::1738171740
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Effects/Fire/::1738220118
 Fire.png::CompressedTexture2D::385303843545973699::1738171740::1738220118::1::::<><>::
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/::1738171739
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/::1738171739
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Buildings/::1738171739
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_House/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_House/::1738220118
 Goblin_House.png::CompressedTexture2D::978971871822151351::1738171739::1738220118::1::::<><>::
 Goblin_House_Destroyed.png::CompressedTexture2D::8296175238546777007::1738171739::1738220118::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/::1738220119
 Wood_Tower_Blue.png::CompressedTexture2D::3121087762665858776::1738171739::1738220118::1::::<><>::
 Wood_Tower_Destroyed.png::CompressedTexture2D::8870052819956410519::1738171739::1738220118::1::::<><>::
 Wood_Tower_InConstruction.png::CompressedTexture2D::8334663135896623747::1738171739::1738220118::1::::<><>::
@@ -1501,51 +1565,51 @@ Wood_Tower_Red.png::CompressedTexture2D::2248413383398919427::1738171739::173822
 Wood_Tower_Yellow.png::CompressedTexture2D::8269970770781352953::1738171739::1738220119::1::::<><>::
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/::1738171739
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/::1738171739
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Blue/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Blue/::1738220119
 Barrel_Blue.png::CompressedTexture2D::8687735563819532856::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Purple/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Purple/::1738220119
 Barrel_Purple.png::CompressedTexture2D::687314013969553051::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Red/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Red/::1738220119
 Barrel_Red.png::CompressedTexture2D::4600416646391184890::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Yellow/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Yellow/::1738220119
 Barrel_Yellow.png::CompressedTexture2D::3292754303285483193::1738171739::1738220119::1::::<><>::
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/::1738171739
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Blue/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Blue/::1738220119
 TNT_Blue.png::CompressedTexture2D::4585459936125662909::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Dynamite/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Dynamite/::1738220119
 Dynamite.png::CompressedTexture2D::6567269454210955920::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Purple/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Purple/::1738220119
 TNT_Purple.png::CompressedTexture2D::4898720342053320446::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Red/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Red/::1738220119
 TNT_Red.png::CompressedTexture2D::4758923991422702385::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Yellow/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Yellow/::1738220119
 TNT_Yellow.png::CompressedTexture2D::5297893306816615019::1738171739::1738220119::1::::<><>::
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/::1738171739
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Blue/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Blue/::1738220119
 Torch_Blue.png::CompressedTexture2D::134293559587152760::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Purple/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Purple/::1738220119
 Torch_Purple.png::CompressedTexture2D::3985545053175361130::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Red/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Red/::1738220119
 Torch_Red.png::CompressedTexture2D::2460733418792893317::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Yellow/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Yellow/::1738220119
 Torch_Yellow.png::CompressedTexture2D::3329731472787656231::1738171739::1738220119::1::::<><>::
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/::1738171739
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Buildings/::1738171739
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/::1738220119
 Castle_Blue.png::CompressedTexture2D::1025120624853750600::1738171739::1738220119::1::::<><>::
 Castle_Construction.png::CompressedTexture2D::5439709429051218683::1738171739::1738220119::1::::<><>::
 Castle_Destroyed.png::CompressedTexture2D::4156500932607493705::1738171739::1738220119::1::::<><>::
 Castle_Purple.png::CompressedTexture2D::6542004244837557906::1738171739::1738220119::1::::<><>::
 Castle_Red.png::CompressedTexture2D::8719105791053528314::1738171739::1738220119::1::::<><>::
 Castle_Yellow.png::CompressedTexture2D::7218603854118419733::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Buildings/House/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Buildings/House/::1738220119
 House_Blue.png::CompressedTexture2D::7983818159245262981::1738171739::1738220119::1::::<><>::
 House_Construction.png::CompressedTexture2D::3623603724057262093::1738171739::1738220119::1::::<><>::
 House_Destroyed.png::CompressedTexture2D::1367628510052810899::1738171739::1738220119::1::::<><>::
 House_Purple.png::CompressedTexture2D::5743983953444903486::1738171739::1738220119::1::::<><>::
 House_Red.png::CompressedTexture2D::1789966863686957573::1738171739::1738220119::1::::<><>::
 House_Yellow.png::CompressedTexture2D::5166156854610058523::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/::1738220119
 Tower_Blue.png::CompressedTexture2D::206207586762458977::1738171739::1738220119::1::::<><>::
 Tower_Construction.png::CompressedTexture2D::4168171186725292716::1738171739::1738220119::1::::<><>::
 Tower_Destroyed.png::CompressedTexture2D::4294588768181948560::1738171739::1738220119::1::::<><>::
@@ -1554,7 +1618,7 @@ Tower_Red.png::CompressedTexture2D::4713432365987884776::1738171739::1738220119:
 Tower_Yellow.png::CompressedTexture2D::263489548330571921::1738171739::1738220119::1::::<><>::
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/::1738171740
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/::1738171739
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/::1738220119
 Archer_Blue_(NoArms).png::CompressedTexture2D::6523824704381244612::1738171739::1738220119::1::::<><>::
 Archer_Bow_Blue.png::CompressedTexture2D::1924948756485390250::1738171739::1738220119::1::::<><>::
 Archer_Bow_Purple.png::CompressedTexture2D::2063332191009389241::1738171739::1738220119::1::::<><>::
@@ -1563,42 +1627,42 @@ Archer_Bow_Yellow.png::CompressedTexture2D::1703912468388370399::1738171739::173
 Archer_Purple_(NoArms).png::CompressedTexture2D::2063005544162427919::1738171739::1738220119::1::::<><>::
 Archer_Red_(NoArms).png::CompressedTexture2D::4669830507209022193::1738171739::1738220119::1::::<><>::
 Archer_Yellow_(NoArms).png::CompressedTexture2D::5928198583475946075::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Arrow/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Arrow/::1738220119
 Arrow.png::CompressedTexture2D::5804294893880432257::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Blue/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Blue/::1738220119
 Archer_Blue.png::CompressedTexture2D::8267033871461815487::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Purple/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Purple/::1738220119
 Archer_Purlple.png::CompressedTexture2D::7426610725205555491::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Red/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Red/::1738220119
 Archer_Red.png::CompressedTexture2D::3488803218128897335::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Yellow/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Yellow/::1738220119
 Archer_Yellow.png::CompressedTexture2D::1715227523242670880::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Dead/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Dead/::1738220119
 Dead.png::CompressedTexture2D::645926981488060123::1738171739::1738220119::1::::<><>::
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/::1738171739
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Blue/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Blue/::1738220119
 Pawn_Blue.png::CompressedTexture2D::139022487665899830::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Purple/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Purple/::1738220119
 Pawn_Purple.png::CompressedTexture2D::4469085348435230902::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Red/::1738171739
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Red/::1738220119
 Pawn_Red.png::CompressedTexture2D::1237842224425973331::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Yellow/::1738171740
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Yellow/::1738220119
 Pawn_Yellow.png::CompressedTexture2D::7794450715779239069::1738171740::1738220119::1::::<><>::
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/::1738171740
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Blue/::1738171740
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Blue/::1738220119
 Warrior_Blue.png::CompressedTexture2D::1388692051032029729::1738171740::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Purple/::1738171740
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Purple/::1738220119
 Warrior_Purple.png::CompressedTexture2D::1768682647854445039::1738171740::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Red/::1738171740
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Red/::1738220119
 Warrior_Red.png::CompressedTexture2D::5228708200557530749::1738171740::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Yellow/::1738171740
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Yellow/::1738220119
 Warrior_Yellow.png::CompressedTexture2D::2773981962334344114::1738171740::1738220119::1::::<><>::
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/Resources/::1738171738
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Resources/Gold Mine/::1738171738
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Resources/Gold Mine/::1738220119
 GoldMine_Active.png::CompressedTexture2D::720974569175485720::1738171738::1738220119::1::::<><>::
 GoldMine_Destroyed.png::CompressedTexture2D::4140122592556825751::1738171738::1738220119::1::::<><>::
 GoldMine_Inactive.png::CompressedTexture2D::514261171209557066::1738171738::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Resources/Resources/::1738171738
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Resources/Resources/::1738220119
 G_Idle.png::CompressedTexture2D::8172208543127008797::1738171738::1738220119::1::::<><>::
 G_Idle_(NoShadow).png::CompressedTexture2D::7422148879355808655::1738171738::1738220119::1::::<><>::
 G_Spawn.png::CompressedTexture2D::4367835351878949187::1738171738::1738220119::1::::<><>::
@@ -1608,30 +1672,30 @@ M_Spawn.png::CompressedTexture2D::5505595086994460268::1738171738::1738220119::1
 W_Idle.png::CompressedTexture2D::6395118457449785243::1738171738::1738220119::1::::<><>::
 W_Idle_(NoShadow).png::CompressedTexture2D::7245875194790483497::1738171738::1738220119::1::::<><>::
 W_Spawn.png::CompressedTexture2D::1578923926365892034::1738171738::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Resources/Sheep/::1738171738
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Resources/Sheep/::1738220119
 HappySheep_All.png::CompressedTexture2D::929179928817903729::1738171738::1738220119::1::::<><>::
 HappySheep_Bouncing.png::CompressedTexture2D::4476388422677154270::1738171738::1738220119::1::::<><>::
 HappySheep_Idle.png::CompressedTexture2D::5860433093390617465::1738171738::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Resources/Trees/::1738171738
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Resources/Trees/::1738220120
 Tree.png::CompressedTexture2D::3559120570941614977::1738171738::1738220120::1::::<><>::
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/Terrain/::1738171738
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Terrain/Bridge/::1738171739
-Bridge_All.png::CompressedTexture2D::6397283712952949826::1738171739::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Terrain/Ground/::1738171738
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Terrain/Bridge/::1738228939
+Bridge_All.png::CompressedTexture2D::6397283712952949826::1738171739::1738228939::1::::<><>::
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Terrain/Ground/::1738220119
 Shadows.png::CompressedTexture2D::1409124544673776429::1738171738::1738220119::1::::<><>::
 Tilemap_Elevation.png::CompressedTexture2D::8418435041785669511::1738171738::1738220119::1::::<><>::
 Tilemap_Flat.png::CompressedTexture2D::7998057318667321505::1738171738::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Terrain/Water/::1738171738
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Terrain/Water/::1738220119
 Water.png::CompressedTexture2D::2385456919447390645::1738171738::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Terrain/Water/Foam/::1738171738
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Terrain/Water/Foam/::1738220120
 Foam.png::CompressedTexture2D::4222328049790861650::1738171738::1738220120::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/Terrain/Water/Rocks/::1738171738
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/Terrain/Water/Rocks/::1738220119
 Rocks_01.png::CompressedTexture2D::1373415725783941106::1738171738::1738220119::1::::<><>::
 Rocks_02.png::CompressedTexture2D::4666674277484828357::1738171738::1738220119::1::::<><>::
 Rocks_03.png::CompressedTexture2D::4187726081780198111::1738171738::1738220119::1::::<><>::
 Rocks_04.png::CompressedTexture2D::1976692072443860217::1738171738::1738220119::1::::<><>::
 ::res://assets/Tiny Swords/Tiny Swords (Update 010)/UI/::1738171738
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/UI/Banners/::1738171738
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/UI/Banners/::1738220120
 Banner_Connection_Down.png::CompressedTexture2D::2234686064827655564::1738171738::1738220119::1::::<><>::
 Banner_Connection_Left.png::CompressedTexture2D::7900258964558366398::1738171738::1738220119::1::::<><>::
 Banner_Connection_Right.png::CompressedTexture2D::4885193771193278994::1738171738::1738220119::1::::<><>::
@@ -1641,7 +1705,7 @@ Banner_Vertical.png::CompressedTexture2D::695327385411946846::1738171738::173822
 Carved_3Slides.png::CompressedTexture2D::5166886303848226850::1738171738::1738220120::1::::<><>::
 Carved_9Slides.png::CompressedTexture2D::1035066103189110587::1738171738::1738220120::1::::<><>::
 Carved_Regular.png::CompressedTexture2D::7030601748460184339::1738171738::1738220120::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/UI/Buttons/::1738171738
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/UI/Buttons/::1738220120
 Button_Blue.png::CompressedTexture2D::6332063659610819919::1738171737::1738220120::1::::<><>::
 Button_Blue_3Slides.png::CompressedTexture2D::7160583233392458431::1738171737::1738220120::1::::<><>::
 Button_Blue_3Slides_Pressed.png::CompressedTexture2D::4942535250362266290::1738171737::1738220120::1::::<><>::
@@ -1660,7 +1724,7 @@ Button_Red_3Slides_Pressed.png::CompressedTexture2D::1314611405129268333::173817
 Button_Red_9Slides.png::CompressedTexture2D::8165791294430642666::1738171737::1738220119::1::::<><>::
 Button_Red_9Slides_Pressed.png::CompressedTexture2D::7784658633112195797::1738171737::1738220119::1::::<><>::
 Button_Red_Pressed.png::CompressedTexture2D::6895912726866697288::1738171737::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/UI/Icons/::1738171738
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/UI/Icons/::1738220119
 Disable_01.png::CompressedTexture2D::4709036996850087833::1738171738::1738220119::1::::<><>::
 Disable_02.png::CompressedTexture2D::2997290658346752213::1738171738::1738220119::1::::<><>::
 Disable_03.png::CompressedTexture2D::6683107372039867256::1738171738::1738220119::1::::<><>::
@@ -1691,14 +1755,14 @@ Regular_07.png::CompressedTexture2D::1743012037727556459::1738171738::1738220119
 Regular_08.png::CompressedTexture2D::3914169083714273181::1738171738::1738220119::1::::<><>::
 Regular_09.png::CompressedTexture2D::1267470605299722316::1738171738::1738220119::1::::<><>::
 Regular_10.png::CompressedTexture2D::2355202225418216003::1738171738::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/UI/Pointers/::1738171738
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/UI/Pointers/::1738220119
 01.png::CompressedTexture2D::1067420345961124253::1738171738::1738220119::1::::<><>::
 02.png::CompressedTexture2D::2272502284968084645::1738171738::1738220119::1::::<><>::
 03.png::CompressedTexture2D::7260540098214875338::1738171738::1738220119::1::::<><>::
 04.png::CompressedTexture2D::9181564155426287106::1738171738::1738220119::1::::<><>::
 05.png::CompressedTexture2D::5559629090562089896::1738171738::1738220119::1::::<><>::
 06.png::CompressedTexture2D::4357511188321417174::1738171738::1738220119::1::::<><>::
-::res://assets/Tiny Swords/Tiny Swords (Update 010)/UI/Ribbons/::1738171738
+::res://assets/Tiny Swords/Tiny Swords (Update 010)/UI/Ribbons/::1738220119
 Ribbon_Blue_3Slides.png::CompressedTexture2D::8471037442341989976::1738171738::1738220119::1::::<><>::
 Ribbon_Blue_Connection_Down.png::CompressedTexture2D::3218497708610126007::1738171738::1738220119::1::::<><>::
 Ribbon_Blue_Connection_Down_Pressed.png::CompressedTexture2D::8619214290574880027::1738171738::1738220119::1::::<><>::
@@ -1727,11 +1791,11 @@ Ribbon_Yellow_Connection_Right_Pressed.png::CompressedTexture2D::314706591860330
 Ribbon_Yellow_Connection_Up.png::CompressedTexture2D::6084600049289607897::1738171738::1738220119::1::::<><>::
 Ribbon_Yellow_Connection_Up_Pressed.png::CompressedTexture2D::7660902764210251840::1738171738::1738220119::1::::<><>::
 ::res://assets/Top_Down_Adventure_Pack_v.1.0/::1738220074
-::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/::1738220075
+::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/::1738220119
 Dungeon_Tileset.png::CompressedTexture2D::6070892046855118703::1738220074::1738220119::1::::<><>::
 Overworld_Tileset.png::CompressedTexture2D::8979967046986342873::1738220074::1738220119::1::::<><>::
 README.txt::TextFile::-1::1738220074::0::1::::<><>::
-::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Char_Sprites/::1738220075
+::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Char_Sprites/::1738220119
 char_attack_down_anim_strip_6.png::CompressedTexture2D::5626479502273913909::1738220074::1738220119::1::::<><>::
 char_attack_left_anim_strip_6.png::CompressedTexture2D::6068164433162208033::1738220074::1738220119::1::::<><>::
 char_attack_right_anim_strip_6.png::CompressedTexture2D::5928935712301981813::1738220074::1738220119::1::::<><>::
@@ -1768,7 +1832,7 @@ char_shielded_static_right.png::CompressedTexture2D::2049388708014276941::173822
 char_shielded_static_up.png::CompressedTexture2D::3887108337972498216::1738220075::1738220118::1::::<><>::
 char_spritesheet.png::CompressedTexture2D::6968531824736598902::1738220075::1738220119::1::::<><>::
 ::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Enemies_Sprites/::1738220075
-::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Enemies_Sprites/Bomberplant_Sprites/::1738220075
+::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Enemies_Sprites/Bomberplant_Sprites/::1738220119
 bomberplant_attack_anim_all_dir_strip_10.png::CompressedTexture2D::1028553774967403875::1738220075::1738220118::1::::<><>::
 bomberplant_death_anim_all_dir_strip_8.png::CompressedTexture2D::2083885894863833954::1738220075::1738220118::1::::<><>::
 bomberplant_hit_anim_all_dir_strip_4.png::CompressedTexture2D::7646494321020907508::1738220075::1738220118::1::::<><>::
@@ -1778,7 +1842,7 @@ bomb_explosion_anim_strip_8.png::CompressedTexture2D::4757149068850277491::17382
 bomb_going_down_anim_strip_4.png::CompressedTexture2D::9216661971796516185::1738220075::1738220119::1::::<><>::
 bomb_going_up_anim_strip_4.png::CompressedTexture2D::8749066627745483363::1738220075::1738220119::1::::<><>::
 bomb_hit_marker_fx_anim_strip_4.png::CompressedTexture2D::8255793773604195696::1738220075::1738220119::1::::<><>::
-::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Enemies_Sprites/Phantom_Sprites/::1738220075
+::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Enemies_Sprites/Phantom_Sprites/::1738220119
 phantom_death_anim_left_strip_8.png::CompressedTexture2D::5977793692889435082::1738220075::1738220119::1::::<><>::
 phantom_death_anim_right_strip_8.png::CompressedTexture2D::5555577448541292885::1738220075::1738220119::1::::<><>::
 phantom_hit_anim_left_strip_4.png::CompressedTexture2D::6404181596080721175::1738220075::1738220119::1::::<><>::
@@ -1788,7 +1852,7 @@ phantom_idle_anim_right_strip_4.png::CompressedTexture2D::8492066784660884551::1
 phantom_run_anim_left_strip_6.png::CompressedTexture2D::8763179832742061364::1738220075::1738220119::1::::<><>::
 phantom_run_anim_right_strip_6.png::CompressedTexture2D::2890383918829560844::1738220075::1738220119::1::::<><>::
 phantom_spritesheet.png::CompressedTexture2D::7243300572686400122::1738220075::1738220119::1::::<><>::
-::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Enemies_Sprites/Pinkbat_Sprites/::1738220075
+::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Enemies_Sprites/Pinkbat_Sprites/::1738220119
 pinkbat_death_anim_left_strip_8.png::CompressedTexture2D::8343117008794394783::1738220075::1738220119::1::::<><>::
 pinkbat_death_anim_right_strip_8.png::CompressedTexture2D::8900333827339069648::1738220075::1738220119::1::::<><>::
 pinkbat_hit_left_anim_strip_4.png::CompressedTexture2D::8123066195287354705::1738220075::1738220119::1::::<><>::
@@ -1798,19 +1862,19 @@ pinkbat_idle_right_anim_strip_5.png::CompressedTexture2D::4353678117498758516::1
 pinkbat_run_attack_left_anim_strip_3.png::CompressedTexture2D::4759513674742021755::1738220075::1738220119::1::::<><>::
 pinkbat_run_attack_right_anim_strip_3.png::CompressedTexture2D::6275496129632744916::1738220075::1738220119::1::::<><>::
 pinkbat_spritesheet.png::CompressedTexture2D::7525845928277107460::1738220075::1738220119::1::::<><>::
-::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Enemies_Sprites/Pinkslime_Sprites/::1738220075
+::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Enemies_Sprites/Pinkslime_Sprites/::1738220119
 pinkslime_death_anim_all_dir_strip_8.png::CompressedTexture2D::7205986692686234886::1738220075::1738220119::1::::<><>::
 pinkslime_hit_anim_all_dir_strip_4.png::CompressedTexture2D::6106646503518531690::1738220075::1738220119::1::::<><>::
 pinkslime_idle_anim_all_dir_strip_6.png::CompressedTexture2D::5209394298040672437::1738220075::1738220119::1::::<><>::
 pinkslime_run_anim_anim_all_dir_strip_6.png::CompressedTexture2D::1553052369748678415::1738220075::1738220119::1::::<><>::
 pinkslime_spritesheet.png::CompressedTexture2D::3411897466752209982::1738220075::1738220119::1::::<><>::
-::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Enemies_Sprites/Spider_Sprites/::1738220075
+::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Enemies_Sprites/Spider_Sprites/::1738220119
 spider_death_anim_all_dir_strip_8.png::CompressedTexture2D::8181856236652578493::1738220075::1738220119::1::::<><>::
 spider_hit_anim_all_dir_strip_4.png::CompressedTexture2D::6668760203562422955::1738220075::1738220119::1::::<><>::
 spider_idle_anim_all_dir_strip_4.png::CompressedTexture2D::6981061571810820258::1738220075::1738220119::1::::<><>::
 spider_run_anim_all_dir_strip_4.png::CompressedTexture2D::3504260134386245692::1738220075::1738220119::1::::<><>::
 spider_spritesheet.png::CompressedTexture2D::469821515702294759::1738220075::1738220119::1::::<><>::
-::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Enemies_Sprites/Spinner_Sprites/::1738220075
+::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Enemies_Sprites/Spinner_Sprites/::1738220119
 hitting_wall_fx_anim_down_strip_4.png::CompressedTexture2D::1524445884157375716::1738220075::1738220119::1::::<><>::
 hitting_wall_fx_anim_left_strip_4.png::CompressedTexture2D::9221488878676853895::1738220075::1738220119::1::::<><>::
 hitting_wall_fx_anim_right_strip_4.png::CompressedTexture2D::7428156387804198992::1738220075::1738220119::1::::<><>::
@@ -1820,12 +1884,12 @@ spinner_hit_anim_all_dir_strip_4.png::CompressedTexture2D::5687506807253082383::
 spinner_idle_anim_all_dir_strip_8.png::CompressedTexture2D::4650351238269703088::1738220075::1738220119::1::::<><>::
 spinner_run_attack_anim_all_dir_strip_8.png::CompressedTexture2D::154062687376665314::1738220075::1738220119::1::::<><>::
 spinner_spritesheet.png::CompressedTexture2D::3196420846210215176::1738220075::1738220119::1::::<><>::
-::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Hud_Ui/::1738220075
+::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Hud_Ui/::1738220119
 health_bar_hud.png::CompressedTexture2D::5266589373105292905::1738220075::1738220119::1::::<><>::
 health_hud.png::CompressedTexture2D::5276566648040091782::1738220075::1738220119::1::::<><>::
 item_box_hud.png::CompressedTexture2D::2005671878804958299::1738220075::1738220119::1::::<><>::
 select_icon_ui.png::CompressedTexture2D::5672922773478350486::1738220075::1738220119::1::::<><>::
-::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Props_Items_(animated)/::1738220075
+::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Props_Items_(animated)/::1738220119
 bonfire_prop_lit_anim_strip_5.png::CompressedTexture2D::3609213069334671792::1738220075::1738220119::1::::<><>::
 crystal_item_anim_collected_strip_5.png::CompressedTexture2D::8550499195895386242::1738220075::1738220119::1::::<><>::
 crystal_item_anim_strip_6.png::CompressedTexture2D::1082125945427959068::1738220075::1738220119::1::::<><>::
@@ -1839,22 +1903,22 @@ plant_prop_anim_cut_strip_6.png::CompressedTexture2D::6229419455301210232::17382
 torch_prop_anim_strip_5.png::CompressedTexture2D::7923809053058726795::1738220075::1738220119::1::::<><>::
 vase_prop_anim_broken_strip_6.png::CompressedTexture2D::5798875487311199007::1738220075::1738220119::1::::<><>::
 ::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Tiles_(animated)/::1738220075
-::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Tiles_(animated)/Dungeon/::1738220075
+::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Tiles_(animated)/Dungeon/::1738220119
 broken_tile_fallingdown_anim_strip_9.png::CompressedTexture2D::6869449781083279272::1738220075::1738220119::1::::<><>::
 door_tile_locked_opening_anim_strip_10.png::CompressedTexture2D::63156946839630347::1738220075::1738220119::1::::<><>::
 iron_gate_closing_anim_strip_8.png::CompressedTexture2D::8293347078969197304::1738220075::1738220119::1::::<><>::
 iron_gate_opening_anim_strip_8.png::CompressedTexture2D::3765906975139128002::1738220075::1738220119::1::::<><>::
 spikes_tile_trap_anim_strip_12.png::CompressedTexture2D::8295156815441578840::1738220075::1738220119::1::::<><>::
-::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Tiles_(animated)/Overworld/::1738220076
+::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Tiles_(animated)/Overworld/::1738220119
 edge_water_tile_anim_strip_8.png::CompressedTexture2D::2058809603547197725::1738220076::1738220119::1::::<><>::
 regia_waterplant_tile_anim_strip_8.png::CompressedTexture2D::1798922887291560497::1738220076::1738220119::1::::<><>::
 waterplant_tile_anim_strip_8.png::CompressedTexture2D::1974908676714860898::1738220076::1738220119::1::::<><>::
 water_tile_anim_strip_8.png::CompressedTexture2D::4301614593940388951::1738220076::1738220119::1::::<><>::
-::res://scenes/::1738220115
-player.tscn::PackedScene::4144256612218384967::1738219537::0::1::::<><>::uid://b0tkc3ku8np6k::::res://assets/mystic_woods_free_2.2/sprites/characters/player.png<>res://scripts/player.gd
-enemy.tscn::PackedScene::5113090284565093453::1738219537::0::1::::<><>::uid://b74gl7cnpudd2::::res://assets/mystic_woods_free_2.2/sprites/characters/slime.png<>res://scripts/enemy.gd
-TileSet.tres::TileSet::6543783965245619305::1738216577::0::1::::<><>::uid://djnsik56omy61::::res://assets/mystic_woods_free_2.2/sprites/objects/objects.png<>uid://c8p5be80whhx4::::res://assets/mystic_woods_free_2.2/sprites/tilesets/grass.png<>uid://rff7y1ercrwo::::res://assets/mystic_woods_free_2.2/sprites/tilesets/plains.png
-world.tscn::PackedScene::9021491771343599190::1738220115::0::1::::<><>::uid://c0h4fvyryhy6t::::res://scenes/TileSet.tres<>uid://ce3235svnofkf::::res://scenes/enemy.tscn<>uid://b0brkh4l6iwt0::::res://scenes/player.tscn
-::res://scripts/::1738219532
-player.gd::GDScript::-1::1738156946::0::1::::<>CharacterBody2D<>::
-enemy.gd::GDScript::-1::1738219532::0::1::::<>CharacterBody2D<>::
+::res://scenes/::1738231796
+enemy.tscn::PackedScene::5113090284565093453::1738231654::0::1::::<><>::uid://b74gl7cnpudd2::::res://assets/mystic_woods_free_2.2/sprites/characters/slime.png<>res://scripts/enemy.gd
+player.tscn::PackedScene::4144256612218384967::1738231796::0::1::::<><>::uid://b0tkc3ku8np6k::::res://assets/mystic_woods_free_2.2/sprites/characters/player.png<>res://scripts/player.gd
+TileSet.tres::TileSet::6543783965245619305::1738229747::0::1::::<><>::uid://djnsik56omy61::::res://assets/mystic_woods_free_2.2/sprites/objects/objects.png<>uid://c8p5be80whhx4::::res://assets/mystic_woods_free_2.2/sprites/tilesets/grass.png<>uid://rff7y1ercrwo::::res://assets/mystic_woods_free_2.2/sprites/tilesets/plains.png
+world.tscn::PackedScene::9021491771343599190::1738231654::0::1::::<><>::uid://c0h4fvyryhy6t::::res://scenes/TileSet.tres<>uid://ce3235svnofkf::::res://scenes/enemy.tscn<>uid://b0brkh4l6iwt0::::res://scenes/player.tscn
+::res://scripts/::1738231622
+enemy.gd::GDScript::-1::1738230373::0::1::::<>CharacterBody2D<>::
+player.gd::GDScript::-1::1738231622::0::1::::<>CharacterBody2D<>::

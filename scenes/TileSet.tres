@@ -8,13 +8,13 @@
 texture = ExtResource("1_34wp5")
 0:0/0 = 0
 0:0/0/y_sort_origin = 5
-0:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(8, 0.353554, 8, 8, -8, 8, -8, 0.353554)
+0:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(8, -3.18198, 8, 8, -8, 8, -8, -3.18198)
 0:1/0 = 0
 0:1/0/y_sort_origin = 5
 0:1/0/physics_layer_0/polygon_0/points = PackedVector2Array(8, 0.353554, 8, 8, -8, 8, -8, 0.353554)
 5:0/0 = 0
 5:0/0/y_sort_origin = 5
-5:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(8, 0.353554, 8, 8, -8, 8, -8, 0.353554)
+5:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(8, -3.18198, 8, 8, -8, 8, -8, -3.18198)
 10:0/size_in_atlas = Vector2i(2, 1)
 10:0/0 = 0
 11:2/size_in_atlas = Vector2i(1, 2)

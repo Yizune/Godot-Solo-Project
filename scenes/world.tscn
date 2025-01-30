@@ -9,6 +9,7 @@ y_sort_enabled = true
 
 [node name="TileMap" type="TileMap" parent="."]
 y_sort_enabled = true
+position = Vector2(76, 9)
 tile_set = ExtResource("1_84n6d")
 format = 2
 layer_0/y_sort_enabled = true
@@ -28,4 +29,6 @@ tile_set = ExtResource("1_84n6d")
 position = Vector2(-2, 29)
 
 [node name="Enemy" parent="." instance=ExtResource("3_xw8wp")]
-position = Vector2(130, 71)
+position = Vector2(505, 81)
+
+[node name="Camera2D" type="Camera2D" parent="."]
