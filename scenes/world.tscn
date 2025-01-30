@@ -78,7 +78,7 @@ shape = SubResource("RectangleShape2D_8f3vy")
 [node name="Camera2D" type="Camera2D" parent="."]
 
 [node name="PlayerSpawn" type="Marker2D" parent="."]
-position = Vector2(260, 131)
+position = Vector2(132, 659)
 
 [node name="NPC" type="CharacterBody2D" parent="."]
 
@@ -86,6 +86,7 @@ position = Vector2(260, 131)
 position = Vector2(328, 924)
 scale = Vector2(5, 5)
 script = ExtResource("4_lujhc")
+target_scene = "res://scenes/first_level.tscn"
 
 [node name="Area2D" type="Area2D" parent="InteractableObject"]
 collision_layer = 3
