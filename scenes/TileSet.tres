@@ -7,20 +7,34 @@
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_53fic"]
 texture = ExtResource("1_34wp5")
 0:0/0 = 0
+0:0/0/y_sort_origin = 5
+0:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(8, 0.353554, 8, 8, -8, 8, -8, 0.353554)
 0:1/0 = 0
+0:1/0/y_sort_origin = 5
+0:1/0/physics_layer_0/polygon_0/points = PackedVector2Array(8, 0.353554, 8, 8, -8, 8, -8, 0.353554)
 5:0/0 = 0
+5:0/0/y_sort_origin = 5
+5:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(8, 0.353554, 8, 8, -8, 8, -8, 0.353554)
 10:0/size_in_atlas = Vector2i(2, 1)
 10:0/0 = 0
 11:2/size_in_atlas = Vector2i(1, 2)
 11:2/0 = 0
 0:5/size_in_atlas = Vector2i(3, 4)
 0:5/0 = 0
+0:5/0/y_sort_origin = 17
+0:5/0/physics_layer_0/polygon_0/points = PackedVector2Array(-4.94975, 11.6673, 1.41422, 12.3744, 8.13173, 12.7279, 9.54594, 15.9099, 12.0208, 20.8596, 8.48528, 25.8094, 1.06066, 26.163, -5.3033, 26.163, -12.0208, 21.2132, -10.9602, 13.0815)
 6:7/size_in_atlas = Vector2i(2, 2)
 6:7/0 = 0
+6:7/0/y_sort_origin = 10
+6:7/0/physics_layer_0/polygon_0/points = PackedVector2Array(-11.6673, -12.0208, -1.76777, -15.2028, 9.54594, -13.7886, 15.5564, -3.53554, 14.1421, 7.77818, 8.83884, 14.1421, -11.6673, 14.1421, -15.2028, 7.77818, -14.8492, -3.88909)
 8:6/size_in_atlas = Vector2i(2, 3)
 8:6/0 = 0
+8:6/0/y_sort_origin = 17
+8:6/0/physics_layer_0/polygon_0/points = PackedVector2Array(-6.71751, -15.2028, -0.707104, -17.3241, 6.01041, -16.2635, 8, -8, 10.9602, 4.94975, 8.48528, 17.3241, 4.94975, 21.5668, -3.18198, 21.5668, -8.48528, 13.7886, -11.3137, 0.353554)
 10:7/size_in_atlas = Vector2i(2, 2)
 10:7/0 = 0
+10:7/0/y_sort_origin = 5
+10:7/0/physics_layer_0/polygon_0/points = PackedVector2Array(-4.59619, -8, 4.94975, -8, 12.0208, 2.82843, 9.8995, 10.253, -10.253, 10.6066, -12.3744, 4.59619, -12.3744, -1.76777)
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_1uc5k"]
 texture = ExtResource("2_xnv6t")
@@ -74,6 +88,7 @@ texture = ExtResource("3_revhb")
 5:6/0 = 0
 
 [resource]
+physics_layer_0/collision_layer = 1
 sources/0 = SubResource("TileSetAtlasSource_53fic")
 sources/1 = SubResource("TileSetAtlasSource_1uc5k")
 sources/2 = SubResource("TileSetAtlasSource_l6d21")
