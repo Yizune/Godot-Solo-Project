@@ -5,3 +5,5 @@ res://scenes/enemy.tscn
 res://scripts/enemy.gd
 res://scripts/player.gd
 res://global.gd
+res://scripts/interactable_object.gd
+res://scenes/interactable_object.tscn
