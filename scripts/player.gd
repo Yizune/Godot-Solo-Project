@@ -13,6 +13,15 @@ var current_dir = "none"
 func _ready():
 	$AnimatedSprite2D.play("front_idle")
 
+	await get_tree().process_frame  # Ensure scene is fully loaded before setting position
+
+	var spawn_point = get_parent().get_node("PlayerSpawn")
+	if spawn_point:
+		global_position = spawn_point.global_position
+	else:
+		print("ERROR: PlayerSpawn not found!")
+
+
 func _physics_process(delta: float) -> void:
 	attack()
 	player_movement(delta)
@@ -24,6 +33,7 @@ func _physics_process(delta: float) -> void:
 		print("player is dead")
 		self.queue_free()
 		#respawn/death screen here
+		
 	
 func player_movement(delta):
 	if attack_in_progress:  # Prevent movement while attacking
