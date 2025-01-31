@@ -1,6 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1738258573
-::res://assets/::1738258573
+::res://::1738324744
+main_menu.gd::GDScript::-1::1738322037::0::1::::<>Control<>::
+::res://assets/::1738323427
 icon.svg::CompressedTexture2D::7554459837812024820::1738138507::1738151912::1::::<><>::
 ::res://assets/0x72_DungeonTilesetII_v1.7/::1738220118
 doc.png::CompressedTexture2D::8322837865055176601::1738151228::1738220118::1::::<><>::
@@ -981,6 +982,134 @@ torch_1.png::CompressedTexture2D::3788730635897563784::1738169049::1738169253::1
 torch_2.png::CompressedTexture2D::5946461908236973248::1738169049::1738169253::1::::<><>::
 torch_3.png::CompressedTexture2D::6256201214435234437::1738169049::1738169253::1::::<><>::
 torch_4.png::CompressedTexture2D::2857236403230126554::1738169049::1738169253::1::::<><>::
+::res://assets/Arrows_and_Sling_Bullets/::1738309151
+Arrows_4-Types-DiagonalDesign_9x9pixelsEach.png::CompressedTexture2D::2583200960633370876::1738308732::1738309151::1::::<><>::
+Arrows_4-Types_10x5pixelsEach.png::CompressedTexture2D::403792274305798428::1738308732::1738309151::1::::<><>::
+sling_bullets_4-Types_non-outlined_5x5pixelsEach.png::CompressedTexture2D::3384712416259780215::1738308732::1738309151::1::::<><>::
+sling_bullets_4-Types_outlined_5x5pixelsEach.png::CompressedTexture2D::4899716380267525205::1738308732::1738309151::1::::<><>::
+sling_bullet_simpleAnimated_non-outlined_2x2pixelsEach.png::CompressedTexture2D::3265575198211457522::1738308732::1738309151::1::::<><>::
+sling_bullet_simpleAnimated_outlined_4x4pixelsEach.png::CompressedTexture2D::1721270615591465379::1738308732::1738309151::1::::<><>::
+::res://assets/AWESOME GUY/::1738309300
+::res://assets/AWESOME GUY/Pixel UI pack 3/::1738309333
+00.png::CompressedTexture2D::5850358858064768318::1684255501::1738309333::1::::<><>::
+01.png::CompressedTexture2D::3953097717345992371::1684255539::1738309333::1::::<><>::
+02.png::CompressedTexture2D::7954650306923366834::1684255583::1738309333::1::::<><>::
+03.png::CompressedTexture2D::2094880326672188768::1684255609::1738309333::1::::<><>::
+04.png::CompressedTexture2D::3252517261833568060::1684255698::1738309333::1::::<><>::
+05.png::CompressedTexture2D::937028222794778427::1684255803::1738309333::1::::<><>::
+06.png::CompressedTexture2D::37705882408447756::1684256201::1738309333::1::::<><>::
+07.png::CompressedTexture2D::1044722714336557216::1684256215::1738309333::1::::<><>::
+All.png::CompressedTexture2D::8094183689200170707::1684258915::1738309333::1::::<><>::
+::res://assets/AWESOME GUY/Retro Pixel Ribbons, Banners and Frames 2/::1738309333
+01.png::CompressedTexture2D::7682011409990023632::1693039924::1738309333::1::::<><>::
+02.png::CompressedTexture2D::8457483536724559533::1693039917::1738309333::1::::<><>::
+03.png::CompressedTexture2D::103082154410432381::1693039908::1738309333::1::::<><>::
+04.png::CompressedTexture2D::9022958956594586687::1693039879::1738309333::1::::<><>::
+05.png::CompressedTexture2D::6405592102900006674::1693039845::1738309333::1::::<><>::
+06.png::CompressedTexture2D::2594791202457487400::1693039811::1738309333::1::::<><>::
+07.png::CompressedTexture2D::409073518445357016::1693039724::1738309333::1::::<><>::
+08.png::CompressedTexture2D::2140094263569484535::1693039712::1738309333::1::::<><>::
+09.png::CompressedTexture2D::6193361037308061906::1693039705::1738309333::1::::<><>::
+10.png::CompressedTexture2D::7072262643442098759::1693039680::1738309333::1::::<><>::
+11.png::CompressedTexture2D::449138864372600516::1693039671::1738309333::1::::<><>::
+12.png::CompressedTexture2D::6055758475307780283::1693039592::1738309333::1::::<><>::
+13.png::CompressedTexture2D::5682680570759746371::1693039586::1738309333::1::::<><>::
+14.png::CompressedTexture2D::8176498496906296525::1693039578::1738309333::1::::<><>::
+15.png::CompressedTexture2D::7138405668261069137::1693039560::1738309333::1::::<><>::
+16.png::CompressedTexture2D::7452521767213162061::1693039516::1738309333::1::::<><>::
+17.png::CompressedTexture2D::3655725773118680812::1693039442::1738309333::1::::<><>::
+18.png::CompressedTexture2D::6745881707724192974::1693039434::1738309333::1::::<><>::
+Ram.png::CompressedTexture2D::2100620608508603193::1693039371::1738309333::1::::<><>::
+::res://assets/Color Buttons/::1738323359
+::res://assets/Color Buttons/__MACOSX/::1738323359
+::res://assets/Color Buttons/__MACOSX/Color Buttons/::1738323359
+::res://assets/Color Buttons/__MACOSX/Color Buttons/Sprites/::1738323359
+::res://assets/Color Buttons/__MACOSX/Color Buttons/Sprites/Blue/::1738323431
+._blueClicked.png::CompressedTexture2D::440799593512227464::1738323359::1738323431::0::::<><>::
+._blueHovered.png::CompressedTexture2D::3822146695304852677::1738323359::1738323431::0::::<><>::
+._blueNormal.png::CompressedTexture2D::7593345209098328900::1738323359::1738323431::0::::<><>::
+::res://assets/Color Buttons/__MACOSX/Color Buttons/Sprites/Disabled/::1738323431
+._Disabled1.png::CompressedTexture2D::7295209238192974830::1738323359::1738323431::0::::<><>::
+._Disabled2.png::CompressedTexture2D::4397562043850839828::1738323359::1738323431::0::::<><>::
+._Disabled3.png::CompressedTexture2D::6013356119127767539::1738323359::1738323431::0::::<><>::
+._Disabled4.png::CompressedTexture2D::2037523908769272188::1738323359::1738323431::0::::<><>::
+._Disabled5.png::CompressedTexture2D::6415009078886431073::1738323359::1738323431::0::::<><>::
+::res://assets/Color Buttons/__MACOSX/Color Buttons/Sprites/Green/::1738323431
+._greenHovered.png::CompressedTexture2D::8827400520534396781::1738323359::1738323431::0::::<><>::
+._greenNormal.png::CompressedTexture2D::4775904345697247473::1738323359::1738323431::0::::<><>::
+._greenPressed.png::CompressedTexture2D::1631818745291524501::1738323359::1738323431::0::::<><>::
+::res://assets/Color Buttons/__MACOSX/Color Buttons/Sprites/Light Blue/::1738323431
+._lightBlueClicked.png::CompressedTexture2D::1400353115565093176::1738323359::1738323431::0::::<><>::
+._lightBlueHovered.png::CompressedTexture2D::254100217848091944::1738323359::1738323431::0::::<><>::
+._lightBlueNormal.png::CompressedTexture2D::7970628894042431853::1738323359::1738323431::0::::<><>::
+::res://assets/Color Buttons/__MACOSX/Color Buttons/Sprites/Orange/::1738323431
+._orange Hovered.png::CompressedTexture2D::2656881890232514712::1738323359::1738323431::0::::<><>::
+._orangedClicked.png::CompressedTexture2D::7416035529132981576::1738323359::1738323431::0::::<><>::
+._orangeNormal.png::CompressedTexture2D::5903144523482580678::1738323359::1738323431::0::::<><>::
+::res://assets/Color Buttons/__MACOSX/Color Buttons/Sprites/Pink/::1738323431
+._pinkClicked.png::CompressedTexture2D::2558523582953365265::1738323359::1738323431::0::::<><>::
+._pinkHovered.png::CompressedTexture2D::5603803629771525951::1738323359::1738323431::0::::<><>::
+._pinkNormal.png::CompressedTexture2D::1302686581796936162::1738323359::1738323431::0::::<><>::
+::res://assets/Color Buttons/__MACOSX/Color Buttons/Sprites/Purple/::1738323431
+._purpleClicked.png::CompressedTexture2D::3668234512357316887::1738323359::1738323431::0::::<><>::
+._purpleHovered.png::CompressedTexture2D::3899510571927415081::1738323359::1738323431::0::::<><>::
+._purpleNormal.png::CompressedTexture2D::6864956249520451238::1738323359::1738323431::0::::<><>::
+::res://assets/Color Buttons/__MACOSX/Color Buttons/Sprites/Rainbow/::1738323431
+._rainbowClicked.png::CompressedTexture2D::1384791733183389349::1738323359::1738323431::0::::<><>::
+._rainbowHovered.png::CompressedTexture2D::2627879148342229556::1738323359::1738323431::0::::<><>::
+._rainbowNormal.png::CompressedTexture2D::2866999774866583425::1738323359::1738323431::0::::<><>::
+::res://assets/Color Buttons/__MACOSX/Color Buttons/Sprites/Red/::1738323431
+._redHovered.png::CompressedTexture2D::7486281664708986522::1738323359::1738323431::0::::<><>::
+._redNormal.png::CompressedTexture2D::2032869355104528462::1738323359::1738323431::0::::<><>::
+._redPressed.png::CompressedTexture2D::4242894488036364236::1738323359::1738323431::0::::<><>::
+::res://assets/Color Buttons/__MACOSX/Color Buttons/Sprites/Yellow/::1738323431
+._yellowClicked.png::CompressedTexture2D::5651366710978937932::1738323359::1738323431::0::::<><>::
+._yellowHovered.png::CompressedTexture2D::161546274048215190::1738323359::1738323431::0::::<><>::
+._yellowNormal.png::CompressedTexture2D::5378789190023963792::1738323359::1738323431::0::::<><>::
+::res://assets/Color Buttons/Color Buttons/::1738323359
+::res://assets/Color Buttons/Color Buttons/Sprites/::1738323359
+::res://assets/Color Buttons/Color Buttons/Sprites/Blue/::1738323430
+blueClicked.png::CompressedTexture2D::801496648703983960::1738323359::1738323430::1::::<><>::
+blueHovered.png::CompressedTexture2D::1851128158350290529::1738323359::1738323430::1::::<><>::
+blueNormal.png::CompressedTexture2D::8121855922592636066::1738323359::1738323430::1::::<><>::
+::res://assets/Color Buttons/Color Buttons/Sprites/Disabled/::1738323430
+Disabled1.png::CompressedTexture2D::9205024464691462904::1738323359::1738323430::1::::<><>::
+Disabled2.png::CompressedTexture2D::1530910628307221437::1738323359::1738323430::1::::<><>::
+Disabled3.png::CompressedTexture2D::4977737504726308195::1738323359::1738323430::1::::<><>::
+Disabled4.png::CompressedTexture2D::6163314798583227147::1738323359::1738323430::1::::<><>::
+Disabled5.png::CompressedTexture2D::8788039873072887168::1738323359::1738323430::1::::<><>::
+::res://assets/Color Buttons/Color Buttons/Sprites/Green/::1738323430
+greenHovered.png::CompressedTexture2D::5326797941825736620::1738323359::1738323430::1::::<><>::
+greenNormal.png::CompressedTexture2D::6026235781644725737::1738323359::1738323430::1::::<><>::
+greenPressed.png::CompressedTexture2D::6252341979324764362::1738323359::1738323430::1::::<><>::
+::res://assets/Color Buttons/Color Buttons/Sprites/Light Blue/::1738323431
+lightBlueClicked.png::CompressedTexture2D::1294701109692551134::1738323359::1738323430::1::::<><>::
+lightBlueHovered.png::CompressedTexture2D::2000874433587007215::1738323359::1738323431::1::::<><>::
+lightBlueNormal.png::CompressedTexture2D::4316570118737924894::1738323359::1738323431::1::::<><>::
+::res://assets/Color Buttons/Color Buttons/Sprites/Orange/::1738324599
+orange Hovered.png::Image::4135974530365905476::1738323359::1738324541::1::::<><>::
+orangedClicked.png::Image::1418447400827609705::1738323359::1738324589::1::::<><>::
+orangeNormal.png::Image::4672314859695538777::1738323359::1738324599::1::::<><>::
+::res://assets/Color Buttons/Color Buttons/Sprites/Pink/::1738323431
+pinkClicked.png::CompressedTexture2D::134621225303447364::1738323359::1738323431::1::::<><>::
+pinkHovered.png::CompressedTexture2D::2386096578173758743::1738323359::1738323431::1::::<><>::
+pinkNormal.png::CompressedTexture2D::562973876308373878::1738323359::1738323431::1::::<><>::
+::res://assets/Color Buttons/Color Buttons/Sprites/Purple/::1738323431
+purpleClicked.png::CompressedTexture2D::4301146481212785941::1738323359::1738323431::1::::<><>::
+purpleHovered.png::CompressedTexture2D::8398869764209301022::1738323359::1738323431::1::::<><>::
+purpleNormal.png::CompressedTexture2D::2843356600685312042::1738323359::1738323431::1::::<><>::
+::res://assets/Color Buttons/Color Buttons/Sprites/Rainbow/::1738323431
+rainbowClicked.png::CompressedTexture2D::1044763870283435245::1738323359::1738323431::1::::<><>::
+rainbowHovered.png::CompressedTexture2D::3386270047999043561::1738323359::1738323431::1::::<><>::
+rainbowNormal.png::CompressedTexture2D::2478815359009400661::1738323359::1738323431::1::::<><>::
+::res://assets/Color Buttons/Color Buttons/Sprites/Red/::1738323431
+redHovered.png::CompressedTexture2D::2035859926605062473::1738323359::1738323431::1::::<><>::
+redNormal.png::CompressedTexture2D::4419545739761971513::1738323359::1738323431::1::::<><>::
+redPressed.png::CompressedTexture2D::7582873361193918246::1738323359::1738323431::1::::<><>::
+::res://assets/Color Buttons/Color Buttons/Sprites/Yellow/::1738323431
+yellowClicked.png::CompressedTexture2D::5778674409207603465::1738323359::1738323431::1::::<><>::
+yellowHovered.png::CompressedTexture2D::2659684352656652438::1738323359::1738323431::1::::<><>::
+yellowNormal.png::CompressedTexture2D::1013008083089050313::1738323359::1738323431::1::::<><>::
 ::res://assets/mystic_woods_free_2.2/::1738151411
 read_me.txt::TextFile::-1::1738151411::0::1::::<><>::
 ::res://assets/mystic_woods_free_2.2/sprites/::1738151411
@@ -1026,9 +1155,30 @@ wooden.png::CompressedTexture2D::1266478491250314012::1738151411::1738151902::1:
 walls.png::CompressedTexture2D::7029040516973954572::1738151411::1738151902::1::::<><>::
 wooden_door.png::CompressedTexture2D::6603327125335720703::1738151412::1738151902::1::::<><>::
 wooden_door_b.png::CompressedTexture2D::764606065512604988::1738151412::1738151902::1::::<><>::
+::res://assets/Peaberry-Font-v2.0/::1738313888
+::res://assets/Peaberry-Font-v2.0/Peaberry-Font-v2.0/::1738313880
+::res://assets/Peaberry-Font-v2.0/Peaberry-Font-v2.0/Peaberry Font Family/::1738313490
+::res://assets/Peaberry-Font-v2.0/Peaberry-Font-v2.0/Peaberry Font Family/Peaberry Base/::1738313510
+Peaberry-Base.otf::FontFile::4219666124152638603::1738313421::1738313509::1::::<><>::
+PeaberryBase.svg::CompressedTexture2D::2208762991750673048::1738313421::1738313510::1::::<><>::
+PeaberryBase.ttf::FontFile::5461863560575988778::1738313421::1738313509::1::::<><>::
+PeaberryBase.woff::FontFile::795569578944489340::1738313421::1738313509::1::::<><>::
+PeaberryBase.woff2::FontFile::5102787988618111870::1738313421::1738313509::1::::<><>::
+::res://assets/Peaberry-Font-v2.0/Peaberry-Font-v2.0/Peaberry Font Family/Peaberry Doublespace/::1738313510
+Peaberry-Doublespace.otf::FontFile::4261410695111689912::1738313421::1738313509::1::::<><>::
+PeaberryDoublespace.svg::CompressedTexture2D::8047226377358785969::1738313421::1738313510::1::::<><>::
+PeaberryDoublespace.ttf::FontFile::4261971776217388476::1738313421::1738313509::1::::<><>::
+PeaberryDoublespace.woff::FontFile::995453510166924687::1738313421::1738313509::1::::<><>::
+PeaberryDoublespace.woff2::FontFile::5345126041191985889::1738313421::1738313509::1::::<><>::
+::res://assets/Peaberry-Font-v2.0/Peaberry-Font-v2.0/Peaberry Font Family/Peaberry Monospace/::1738313510
+Peaberry-Mono.otf::FontFile::4932013030738412976::1738313421::1738313509::1::::<><>::
+PeaberryMono.svg::CompressedTexture2D::2068367562405665375::1738313421::1738313510::1::::<><>::
+PeaberryMono.ttf::FontFile::2783080313611406932::1738313421::1738313509::1::::<><>::
+PeaberryMono.woff::FontFile::1816891956634109498::1738313421::1738313509::1::::<><>::
+PeaberryMono.woff2::FontFile::9216197836191848274::1738313421::1738313509::1::::<><>::
 ::res://assets/Pixel Art Top Down - Basic v1.1.2/::1738258540
 Changelog.txt::TextFile::-1::1738258540::0::1::::<><>::
-::res://assets/Pixel Art Top Down - Basic v1.1.2/Texture/::1738258540
+::res://assets/Pixel Art Top Down - Basic v1.1.2/Texture/::1738258577
 TX Plant.png::CompressedTexture2D::1246145058040659582::1738258540::1738258577::1::::<><>::
 TX Player.png::CompressedTexture2D::197887033198847101::1738258540::1738258577::1::::<><>::
 TX Props.png::CompressedTexture2D::1270929442231850445::1738258540::1738258577::1::::<><>::
@@ -1671,12 +1821,108 @@ edge_water_tile_anim_strip_8.png::CompressedTexture2D::2058809603547197725::1738
 regia_waterplant_tile_anim_strip_8.png::CompressedTexture2D::1798922887291560497::1738220076::1738220119::1::::<><>::
 waterplant_tile_anim_strip_8.png::CompressedTexture2D::1974908676714860898::1738220076::1738220119::1::::<><>::
 water_tile_anim_strip_8.png::CompressedTexture2D::4301614593940388951::1738220076::1738220119::1::::<><>::
-::res://scenes/::1738258452
-enemy.tscn::PackedScene::5113090284565093453::1738257954::0::1::::<><>::uid://b74gl7cnpudd2::::res://assets/mystic_woods_free_2.2/sprites/characters/slime.png<>res://scripts/enemy.gd
-player.tscn::PackedScene::4144256612218384967::1738257954::0::1::::<><>::uid://b0tkc3ku8np6k::::res://assets/mystic_woods_free_2.2/sprites/characters/player.png<>res://scripts/player.gd<>uid://dvj0ybhjl05rv::::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier/Soldier-Attack01.png<>uid://s0ywwnu2ocvm::::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier/Soldier.png<>uid://c6v1uupxqvsxw::::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier(Split Effects)/Soldier-Attack01_Effect.png<>uid://55i5k1r6ff3f::::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier(Split Effects)/Soldier-Attack02_Effect.png<>uid://di1gqf4pxw7yr::::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier/Soldier-Attack02.png<>uid://crf4aucjgg3yq::::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier/Soldier-Attack03.png
-TileSet.tres::TileSet::6543783965245619305::1738257366::0::1::::<><>::uid://djnsik56omy61::::res://assets/mystic_woods_free_2.2/sprites/objects/objects.png<>uid://c8p5be80whhx4::::res://assets/mystic_woods_free_2.2/sprites/tilesets/grass.png<>uid://d0670lsi285qj::::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Overworld_Tileset.png<>uid://rff7y1ercrwo::::res://assets/mystic_woods_free_2.2/sprites/tilesets/plains.png<>uid://csq1x8bayfhv8::::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Dungeon_Tileset.png<>uid://b2jy71iw28xs6::::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Tiles_(animated)/Overworld/water_tile_anim_strip_8.png<>uid://4lkj8e2agx6t::::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Tiles_(animated)/Overworld/edge_water_tile_anim_strip_8.png
-world.tscn::PackedScene::9021491771343599190::1738258452::0::1::::<><>::uid://c0h4fvyryhy6t::::res://scenes/TileSet.tres<>uid://ce3235svnofkf::::res://scenes/enemy.tscn<>uid://b0brkh4l6iwt0::::res://scenes/player.tscn
-::res://scripts/::1738255065
+::res://Button/::1738324744
+::res://Button/Buttons/::1738324744
+buttons_Back.png::CompressedTexture2D::2768833517169903842::1737947122::1738324755::1::::<><>::
+::res://Button/Buttons/PNG/::1738324744
+29button_blue.png::CompressedTexture2D::8862190233034533787::1737947122::1738324755::1::::<><>::
+::res://Button/TextMesh Pro/::1738324747
+::res://Button/TextMesh Pro/Documentation/::1738324744
+::res://Button/TextMesh Pro/Examples & Extras/::1738324746
+::res://Button/TextMesh Pro/Examples & Extras/Fonts/::1738324745
+Anton OFL.txt::TextFile::-1::1737947125::0::1::::<><>::
+Anton.ttf::FontFile::4687416209488061553::1737947125::1738324755::1::::<><>::
+Bangers - OFL.txt::TextFile::-1::1737947125::0::1::::<><>::
+Bangers.ttf::FontFile::7081935164647886172::1737947126::1738324755::1::::<><>::
+Electronic Highway Sign.TTF::FontFile::708686181063621910::1737947126::1738324755::1::::<><>::
+Oswald-Bold - OFL.txt::TextFile::-1::1737947126::0::1::::<><>::
+Oswald-Bold.ttf::FontFile::8459557342074377094::1737947126::1738324755::1::::<><>::
+Roboto-Bold.ttf::FontFile::36617300573626894::1737947127::1738324755::1::::<><>::
+::res://Button/TextMesh Pro/Examples & Extras/Materials/::1738324745
+::res://Button/TextMesh Pro/Examples & Extras/Prefabs/::1738324745
+::res://Button/TextMesh Pro/Examples & Extras/Resources/::1738324745
+::res://Button/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/::1738324745
+::res://Button/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/::1738324745
+::res://Button/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/::1738324745
+::res://Button/TextMesh Pro/Examples & Extras/Scenes/::1738324745
+::res://Button/TextMesh Pro/Examples & Extras/Scripts/::1738324746
+Benchmark01.cs::CSharpScript::-1::1737947143::0::1::::<><>::
+Benchmark01_UGUI.cs::CSharpScript::-1::1737947143::0::1::::<><>::
+Benchmark02.cs::CSharpScript::-1::1737947143::0::1::::<><>::
+Benchmark03.cs::CSharpScript::-1::1737947143::0::1::::<><>::
+Benchmark04.cs::CSharpScript::-1::1737947144::0::1::::<><>::
+CameraController.cs::CSharpScript::-1::1737947144::0::1::::<><>::
+ChatController.cs::CSharpScript::-1::1737947144::0::1::::<><>::
+DropdownSample.cs::CSharpScript::-1::1737947144::0::1::::<><>::
+EnvMapAnimator.cs::CSharpScript::-1::1737947145::0::1::::<><>::
+ObjectSpin.cs::CSharpScript::-1::1737947145::0::1::::<><>::
+ShaderPropAnimator.cs::CSharpScript::-1::1737947145::0::1::::<><>::
+SimpleScript.cs::CSharpScript::-1::1737947145::0::1::::<><>::
+SkewTextExample.cs::CSharpScript::-1::1737947145::0::1::::<><>::
+TeleType.cs::CSharpScript::-1::1737947148::0::1::::<><>::
+TextConsoleSimulator.cs::CSharpScript::-1::1737947149::0::1::::<><>::
+TextMeshProFloatingText.cs::CSharpScript::-1::1737947149::0::1::::<><>::
+TextMeshSpawner.cs::CSharpScript::-1::1737947149::0::1::::<><>::
+TMPro_InstructionOverlay.cs::CSharpScript::-1::1737947148::0::1::::<><>::
+TMP_DigitValidator.cs::CSharpScript::-1::1737947146::0::1::::<><>::
+TMP_ExampleScript_01.cs::CSharpScript::-1::1737947146::0::1::::<><>::
+TMP_FrameRateCounter.cs::CSharpScript::-1::1737947146::0::1::::<><>::
+TMP_PhoneNumberValidator.cs::CSharpScript::-1::1737947147::0::1::::<><>::
+TMP_TextEventCheck.cs::CSharpScript::-1::1737947147::0::1::::<><>::
+TMP_TextEventHandler.cs::CSharpScript::-1::1737947147::0::1::::<><>::
+TMP_TextInfoDebugTool.cs::CSharpScript::-1::1737947147::0::1::::<><>::
+TMP_TextSelector_A.cs::CSharpScript::-1::1737947148::0::1::::<><>::
+TMP_TextSelector_B.cs::CSharpScript::-1::1737947148::0::1::::<><>::
+TMP_UiFrameRateCounter.cs::CSharpScript::-1::1737947148::0::1::::<><>::
+VertexColorCycler.cs::CSharpScript::-1::1737947149::0::1::::<><>::
+VertexJitter.cs::CSharpScript::-1::1737947150::0::1::::<><>::
+VertexShakeA.cs::CSharpScript::-1::1737947150::0::1::::<><>::
+VertexShakeB.cs::CSharpScript::-1::1737947150::0::1::::<><>::
+VertexZoom.cs::CSharpScript::-1::1737947150::0::1::::<><>::
+WarpTextExample.cs::CSharpScript::-1::1737947151::0::1::::<><>::
+::res://Button/TextMesh Pro/Examples & Extras/Sprites/::1738324746
+Default Sprites.png::CompressedTexture2D::5495461595760511674::1737947151::1738324755::1::::<><>::
+::res://Button/TextMesh Pro/Examples & Extras/Textures/::1738324746
+Brushed Metal 3.jpg::CompressedTexture2D::2403625078413729833::1737947151::1738324755::1::::<><>::
+Floor Cement.jpg::CompressedTexture2D::2408365886887558880::1737947151::1738324755::1::::<><>::
+Floor Tiles 1 - diffuse.jpg::CompressedTexture2D::4050411700568881970::1737947152::1738324755::1::::<><>::
+Fruit Jelly (B&W).jpg::CompressedTexture2D::1968685614224128746::1737947152::1738324755::1::::<><>::
+Gradient Diagonal (Color).jpg::CompressedTexture2D::9211536552267310230::1737947152::1738324755::1::::<><>::
+Gradient Horizontal (Color).jpg::CompressedTexture2D::2089761694793405266::1737947152::1738324755::1::::<><>::
+Gradient Vertical (Color).jpg::CompressedTexture2D::6380428395008987436::1737947152::1738324755::1::::<><>::
+Small Crate_diffuse.jpg::CompressedTexture2D::6789776783609066630::1737947152::1738324755::1::::<><>::
+Small Crate_normal.jpg::CompressedTexture2D::2234730840281004887::1737947153::1738324755::1::::<><>::
+Sunny Days - Seamless.jpg::CompressedTexture2D::2137351105061982191::1737947153::1738324755::1::::<><>::
+Text Overflow - Linked Text Image 1.png::CompressedTexture2D::6297629822832149540::1737947153::1738324755::1::::<><>::
+Text Overflow - Linked Text UI Screenshot.png::CompressedTexture2D::3219370568047729775::1737947153::1738324755::1::::<><>::
+::res://Button/TextMesh Pro/Fonts/::1738324746
+LiberationSans - OFL.txt::TextFile::-1::1737947154::0::1::::<><>::
+LiberationSans.ttf::FontFile::7311773485181490104::1737947154::1738324755::1::::<><>::
+::res://Button/TextMesh Pro/Resources/::1738324746
+LineBreaking Following Characters.txt::TextFile::-1::1737947155::0::1::::<><>::
+LineBreaking Leading Characters.txt::TextFile::-1::1737947155::0::1::::<><>::
+::res://Button/TextMesh Pro/Resources/Fonts & Materials/::1738324746
+::res://Button/TextMesh Pro/Resources/Sprite Assets/::1738324746
+::res://Button/TextMesh Pro/Resources/Style Sheets/::1738324746
+::res://Button/TextMesh Pro/Shaders/::1738324747
+::res://Button/TextMesh Pro/Sprites/::1738324747
+EmojiOne Attribution.txt::TextFile::-1::1737947161::0::1::::<><>::
+EmojiOne.json::JSON::-1::1737947161::0::1::::<><>::
+EmojiOne.png::CompressedTexture2D::5762675523525365975::1737947161::1738324755::1::::<><>::
+::res://scenes/::1738324663
+enemy.tscn::PackedScene::5113090284565093453::1738323618::0::1::::<><>::uid://b74gl7cnpudd2::::res://assets/mystic_woods_free_2.2/sprites/characters/slime.png<>res://scripts/enemy.gd
+first_level.tscn::PackedScene::2911611114503472910::1738323618::0::1::::<><>::
+interactable_object.tscn::PackedScene::7666612543769388571::1738323618::0::1::::<><>::
+main_menu.tscn::PackedScene::2749423921413054277::1738324663::0::1::::<><>::res://main_menu.gd<>uid://caiunm6hroxmp::::res://sound/click-151673.mp3<>uid://cttenfiiko8y8::::res://assets/Tiny Swords/Tiny Swords (Update 010)/UI/Buttons/Button_Disable_3Slides.png<>uid://bh27rq0u18t7g::::res://assets/Tiny Swords/Tiny Swords (Update 010)/UI/Buttons/Button_Hover_3Slides.png
+player.tscn::PackedScene::4144256612218384967::1738323618::0::1::::<><>::uid://b0tkc3ku8np6k::::res://assets/mystic_woods_free_2.2/sprites/characters/player.png<>res://scripts/player.gd<>uid://dvj0ybhjl05rv::::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier/Soldier-Attack01.png<>uid://s0ywwnu2ocvm::::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier/Soldier.png<>uid://c6v1uupxqvsxw::::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier(Split Effects)/Soldier-Attack01_Effect.png<>uid://55i5k1r6ff3f::::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier(Split Effects)/Soldier-Attack02_Effect.png<>uid://di1gqf4pxw7yr::::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier/Soldier-Attack02.png<>uid://d2wens4wgna3m::::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier(Split Effects)/Soldier.png<>uid://crf4aucjgg3yq::::res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier/Soldier-Attack03.png
+scene_loader.tscn::PackedScene::5670938952231908606::1738323618::0::1::::<><>::res://scripts/scene_loader.gd<>uid://b1ebjw7q6saw6::::res://assets/Peaberry-Font-v2.0/Peaberry-Font-v2.0/Peaberry Font Family/Peaberry Base/Peaberry-Base.otf
+TileSet.tres::TileSet::6543783965245619305::1738323947::0::1::::<><>::uid://d0670lsi285qj::::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Overworld_Tileset.png<>uid://csq1x8bayfhv8::::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Dungeon_Tileset.png<>uid://b2jy71iw28xs6::::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Tiles_(animated)/Overworld/water_tile_anim_strip_8.png<>uid://4lkj8e2agx6t::::res://assets/Top_Down_Adventure_Pack_v.1.0/Top_Down_Adventure_Pack_v.1.0/Tiles_(animated)/Overworld/edge_water_tile_anim_strip_8.png<>uid://cpl7s5lbl3q11::::res://assets/AWESOME GUY/Pixel UI pack 3/00.png<>uid://sdwa0xww0ihx::::res://assets/Pixel Art Top Down - Basic v1.1.2/Texture/TX Props.png
+world.tscn::PackedScene::9021491771343599190::1738323618::0::1::::<><>::uid://c0h4fvyryhy6t::::res://scenes/TileSet.tres<>uid://ce3235svnofkf::::res://scenes/enemy.tscn<>res://scripts/interactable_object.gd<>uid://dhh08uxup4qyt::::res://scenes/interactable_object.tscn<>uid://b0brkh4l6iwt0::::res://scenes/player.tscn<>uid://cm2bshvjy8pkg::::res://scenes/scene_loader.tscn
+::res://scripts/::1738312708
 enemy.gd::GDScript::-1::1738235355::0::1::::<>CharacterBody2D<>::
 global.gd::GDScript::-1::1738231796::0::1::::<>Node<>::
-player.gd::GDScript::-1::1738255065::0::1::::<>CharacterBody2D<>::
+interactable_object.gd::GDScript::-1::1738312708::0::1::::<>Node2D<>::
+player.gd::GDScript::-1::1738302150::0::1::::<>CharacterBody2D<>::
+scene_loader.gd::GDScript::-1::1738309548::0::1::::<>Node<>::
+::res://sound/::1738320395
+click-151673.mp3::AudioStreamMP3::4790594623105254819::1738315148::1738316456::1::::<><>::
