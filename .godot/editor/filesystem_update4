@@ -9,3 +9,4 @@ res://scenes/scene_loader.tscn
 res://scripts/interactable_object.gd
 res://scenes/main_menu.tscn
 res://main_menu.gd
+res://scenes/npc.tscn

@@ -7,18 +7,21 @@ extends Control
 @onready var exit_button = $Menu/Exit
 
 @onready var sound_settings = $SoundSettings
-@onready var sound_button = $SoundSettings/Sound
+@onready var sound = $SoundSettings/Sound
 @onready var back_button = $SoundSettings/Back
 
-@onready var master_slider = $Control/Master
-@onready var music_slider = $Control/Music
-@onready var effects_slider = $Control/Effects
+@onready var master_slider = $Sound/Master
+@onready var music_slider = $Sound/Music
+@onready var effects_slider = $Sound/Effects
+@onready var back_button2 = $Sound/Back
 
 @onready var click_audio = $ClickAudio
 @onready var animation_player = $MenuAnimationPlayer
 
+
 func _ready():
-	sound_settings.visible = false  # Hide sound settings initially
+	#sound_settings.visible = false  # Hide sound settings initially
+	#sound.visible = false
 
 	# Set sliders to current audio levels
 	master_slider.value = db_to_linear(AudioServer.get_bus_volume_db(0))
@@ -38,17 +41,25 @@ func _on_Continue_pressed():
 # Open Settings
 func _on_Settings_pressed():
 	_play_click_sound()
-	animation_player.play("show_settings")
+	sound_settings.visible = true
+	menu.visible = false
 
 # Open Sound Settings
 func _on_Sound_pressed():
 	_play_click_sound()
-	sound_settings.visible = true
+	sound.visible = true
+	sound_settings.visible = false
 
 # Back Button (Close Sound Settings)
 func _on_Back_pressed():
 	_play_click_sound()
+	menu.visible = true
 	sound_settings.visible = false
+	
+func _on_Back2_pressed():
+	_play_click_sound()
+	sound_settings.visible = true
+	sound.visible = false
 
 # Exit the game
 func _on_Exit_pressed():

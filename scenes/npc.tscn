@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3 uid="uid://b6tmg3rj25gp3"]
+
+[ext_resource type="SpriteFrames" uid="uid://3h4h4irmpqgy" path="res://scenes/SpriteFrame.tres" id="1_jn5p6"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_m131l"]
+radius = 7.0
+height = 14.0
+
+[node name="Npc" type="CharacterBody2D"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(0, -11)
+sprite_frames = ExtResource("1_jn5p6")
+animation = &"side_idle"
+frame_progress = 0.330126
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CapsuleShape2D_m131l")
