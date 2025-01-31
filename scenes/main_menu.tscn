@@ -88,29 +88,29 @@ texture_pressed = ExtResource("3_5b1mr")
 texture_hover = ExtResource("4_3oong")
 stretch_mode = 3
 
-[node name="Control" type="Control" parent="."]
+[node name="Sound" type="VBoxContainer" parent="."]
 layout_mode = 2
-anchors_preset = 0
 offset_left = 479.0
 offset_top = 252.0
-offset_right = 479.0
-offset_bottom = 252.0
+offset_right = 487.0
+offset_bottom = 308.0
 scale = Vector2(0.5, 0.5)
 
-[node name="Master" type="HSlider" parent="Control"]
-layout_mode = 0
-offset_right = 8.0
-offset_bottom = 16.0
+[node name="Master" type="HSlider" parent="Sound"]
+layout_mode = 2
 
-[node name="Music" type="HSlider" parent="Control"]
-layout_mode = 0
-offset_right = 8.0
-offset_bottom = 16.0
+[node name="Music" type="HSlider" parent="Sound"]
+layout_mode = 2
 
-[node name="Effects" type="HSlider" parent="Control"]
-layout_mode = 0
-offset_right = 8.0
-offset_bottom = 16.0
+[node name="Effects" type="HSlider" parent="Sound"]
+layout_mode = 2
+
+[node name="Back" type="TextureButton" parent="Sound"]
+layout_mode = 2
+texture_normal = ExtResource("3_5b1mr")
+texture_pressed = ExtResource("3_5b1mr")
+texture_hover = ExtResource("4_3oong")
+stretch_mode = 3
 
 [node name="Background" type="TextureRect" parent="."]
 layout_mode = 0
@@ -139,6 +139,8 @@ stream = ExtResource("1_woi6n")
 [connection signal="pressed" from="SoundSettings/Sound" to="." method="_play_click_sound"]
 [connection signal="pressed" from="SoundSettings/Back" to="." method="_on_Back_pressed"]
 [connection signal="pressed" from="SoundSettings/Back" to="." method="_play_click_sound"]
-[connection signal="value_changed" from="Control/Master" to="." method="_on_Master_value_changed"]
-[connection signal="value_changed" from="Control/Music" to="." method="_on_Music_value_changed"]
-[connection signal="value_changed" from="Control/Effects" to="." method="_on_Effects_value_changed"]
+[connection signal="value_changed" from="Sound/Master" to="." method="_on_Master_value_changed"]
+[connection signal="value_changed" from="Sound/Music" to="." method="_on_Music_value_changed"]
+[connection signal="value_changed" from="Sound/Effects" to="." method="_on_Effects_value_changed"]
+[connection signal="pressed" from="Sound/Back" to="." method="_on_Back_pressed"]
+[connection signal="pressed" from="Sound/Back" to="." method="_play_click_sound"]
