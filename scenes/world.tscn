@@ -1,17 +1,18 @@
-[gd_scene load_steps=8 format=4 uid="uid://d1scwfbk1hhc5"]
+[gd_scene load_steps=9 format=4 uid="uid://d1scwfbk1hhc5"]
 
 [ext_resource type="TileSet" uid="uid://c0h4fvyryhy6t" path="res://scenes/TileSet.tres" id="1_84n6d"]
 [ext_resource type="PackedScene" uid="uid://ce3235svnofkf" path="res://scenes/enemy.tscn" id="3_xw8wp"]
 [ext_resource type="Script" path="res://scripts/interactable_object.gd" id="4_lujhc"]
 [ext_resource type="PackedScene" uid="uid://dhh08uxup4qyt" path="res://scenes/interactable_object.tscn" id="4_ptsgm"]
 [ext_resource type="PackedScene" uid="uid://b0brkh4l6iwt0" path="res://scenes/player.tscn" id="4_ricph"]
+[ext_resource type="PackedScene" uid="uid://cm2bshvjy8pkg" path="res://scenes/scene_loader.tscn" id="6_y4xi2"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_8f3vy"]
 size = Vector2(14.5, 15.5)
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_qlm60"]
 
-[node name="world" type="Node2D"]
+[node name="world" type="Node2D" groups=["SceneLoader"]]
 y_sort_enabled = true
 
 [node name="TileMap" type="TileMap" parent="."]
@@ -78,11 +79,11 @@ shape = SubResource("RectangleShape2D_8f3vy")
 [node name="Camera2D" type="Camera2D" parent="."]
 
 [node name="PlayerSpawn" type="Marker2D" parent="."]
-position = Vector2(132, 659)
+position = Vector2(243, 940)
 
 [node name="NPC" type="CharacterBody2D" parent="."]
 
-[node name="InteractableObject" parent="." instance=ExtResource("4_ptsgm")]
+[node name="InteractableObject" parent="." groups=["SceneLoader"] instance=ExtResource("4_ptsgm")]
 position = Vector2(328, 924)
 scale = Vector2(5, 5)
 script = ExtResource("4_lujhc")
@@ -94,3 +95,5 @@ collision_mask = 3
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="InteractableObject/Area2D"]
 shape = SubResource("CircleShape2D_qlm60")
+
+[node name="SceneLoader" parent="." groups=["SceneLoader"] instance=ExtResource("6_y4xi2")]

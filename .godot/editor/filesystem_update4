@@ -8,3 +8,5 @@ res://global.gd
 res://scripts/interactable_object.gd
 res://scenes/interactable_object.tscn
 res://scenes/first_level.tscn
+res://scenes/scene_loader.tscn
+res://scripts/scene_loader.gd
