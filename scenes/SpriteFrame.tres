@@ -1,4 +1,4 @@
-[gd_resource type="SpriteFrames" load_steps=113 format=3 uid="uid://3h4h4irmpqgy"]
+[gd_resource type="SpriteFrames" load_steps=109 format=3 uid="uid://3h4h4irmpqgy"]
 
 [ext_resource type="Texture2D" uid="uid://s0ywwnu2ocvm" path="res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier/Soldier.png" id="1_xmn4e"]
 [ext_resource type="Texture2D" uid="uid://d2wens4wgna3m" path="res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier(Split Effects)/Soldier.png" id="2_abq7a"]
@@ -6,7 +6,6 @@
 [ext_resource type="Texture2D" uid="uid://c6v1uupxqvsxw" path="res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier(Split Effects)/Soldier-Attack01_Effect.png" id="4_cemwi"]
 [ext_resource type="Texture2D" uid="uid://dvj0ybhjl05rv" path="res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier/Soldier-Attack01.png" id="5_saovi"]
 [ext_resource type="Texture2D" uid="uid://di1gqf4pxw7yr" path="res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier/Soldier-Attack02.png" id="6_inv6w"]
-[ext_resource type="Texture2D" uid="uid://crf4aucjgg3yq" path="res://assets/Tiny RPG Character Asset Pack v1.03b -Free Soldier&Orc/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc/Characters(100x100)/Soldier/Soldier/Soldier-Attack03.png" id="7_7nkj4"]
 [ext_resource type="Texture2D" uid="uid://b0tkc3ku8np6k" path="res://assets/mystic_woods_free_2.2/sprites/characters/player.png" id="8_t4lne"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_3ihne"]
@@ -185,41 +184,29 @@ region = Rect2(400, 0, 100, 100)
 atlas = ExtResource("6_inv6w")
 region = Rect2(500, 0, 100, 100)
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_3qiuw"]
-atlas = ExtResource("7_7nkj4")
-region = Rect2(0, 0, 100, 100)
+[sub_resource type="AtlasTexture" id="AtlasTexture_2c23w"]
+atlas = ExtResource("2_abq7a")
+region = Rect2(0, 400, 100, 100)
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_v0qpj"]
-atlas = ExtResource("7_7nkj4")
-region = Rect2(100, 0, 100, 100)
+[sub_resource type="AtlasTexture" id="AtlasTexture_1fl7l"]
+atlas = ExtResource("2_abq7a")
+region = Rect2(400, 400, 100, 100)
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_pujyw"]
-atlas = ExtResource("7_7nkj4")
-region = Rect2(200, 0, 100, 100)
+[sub_resource type="AtlasTexture" id="AtlasTexture_7rhj5"]
+atlas = ExtResource("2_abq7a")
+region = Rect2(500, 400, 100, 100)
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_nrh60"]
-atlas = ExtResource("7_7nkj4")
-region = Rect2(300, 0, 100, 100)
+[sub_resource type="AtlasTexture" id="AtlasTexture_00b54"]
+atlas = ExtResource("2_abq7a")
+region = Rect2(600, 400, 100, 100)
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_4d80b"]
-atlas = ExtResource("7_7nkj4")
-region = Rect2(400, 0, 100, 100)
+[sub_resource type="AtlasTexture" id="AtlasTexture_guknl"]
+atlas = ExtResource("2_abq7a")
+region = Rect2(700, 400, 100, 100)
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_yh1wn"]
-atlas = ExtResource("7_7nkj4")
-region = Rect2(500, 0, 100, 100)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_sxb7e"]
-atlas = ExtResource("7_7nkj4")
-region = Rect2(600, 0, 100, 100)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_twnpq"]
-atlas = ExtResource("7_7nkj4")
-region = Rect2(700, 0, 100, 100)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_s715d"]
-atlas = ExtResource("7_7nkj4")
-region = Rect2(800, 0, 100, 100)
+[sub_resource type="AtlasTexture" id="AtlasTexture_0d0js"]
+atlas = ExtResource("2_abq7a")
+region = Rect2(800, 400, 100, 100)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_qg5pp"]
 atlas = ExtResource("8_t4lne")
@@ -606,31 +593,22 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
-"texture": SubResource("AtlasTexture_3qiuw")
+"texture": SubResource("AtlasTexture_2c23w")
 }, {
 "duration": 1.0,
-"texture": SubResource("AtlasTexture_v0qpj")
+"texture": SubResource("AtlasTexture_1fl7l")
 }, {
 "duration": 1.0,
-"texture": SubResource("AtlasTexture_pujyw")
+"texture": SubResource("AtlasTexture_7rhj5")
 }, {
 "duration": 1.0,
-"texture": SubResource("AtlasTexture_nrh60")
+"texture": SubResource("AtlasTexture_00b54")
 }, {
 "duration": 1.0,
-"texture": SubResource("AtlasTexture_4d80b")
+"texture": SubResource("AtlasTexture_guknl")
 }, {
 "duration": 1.0,
-"texture": SubResource("AtlasTexture_yh1wn")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_sxb7e")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_twnpq")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_s715d")
+"texture": SubResource("AtlasTexture_0d0js")
 }],
 "loop": true,
 "name": &"attack3",

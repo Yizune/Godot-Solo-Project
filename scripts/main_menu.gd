@@ -171,6 +171,10 @@ func _on_Back_pressed():
 	play_click_sound()
 	show_only_menu()
 	
+func _on_Back2_pressed():
+	play_click_sound()
+	show_only_settings()
+	
 func _on_Exit_pressed():
 	play_click_sound()
 	print("Exit button pressed. Quitting game...")

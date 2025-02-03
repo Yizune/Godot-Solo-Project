@@ -16,8 +16,8 @@ script = ExtResource("2_1vuh5")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = ExtResource("2_fi10n")
-animation = &"attack1"
-frame_progress = 0.61978
+animation = &"attack3"
+frame_progress = 0.64743
 offset = Vector2(0, -5)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]

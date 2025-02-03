@@ -1,6 +1,6 @@
 [gd_scene load_steps=5 format=3 uid="uid://bff3u0q3ik4d2"]
 
-[ext_resource type="Script" path="res://main_menu.gd" id="1_15eis"]
+[ext_resource type="Script" path="res://scripts/main_menu.gd" id="1_15eis"]
 [ext_resource type="AudioStream" uid="uid://caiunm6hroxmp" path="res://sound/click-151673.mp3" id="1_woi6n"]
 [ext_resource type="Texture2D" uid="uid://cttenfiiko8y8" path="res://assets/Tiny Swords/Tiny Swords (Update 010)/UI/Buttons/Button_Disable_3Slides.png" id="3_5b1mr"]
 [ext_resource type="Texture2D" uid="uid://bh27rq0u18t7g" path="res://assets/Tiny Swords/Tiny Swords (Update 010)/UI/Buttons/Button_Hover_3Slides.png" id="4_3oong"]
@@ -15,18 +15,28 @@ grow_vertical = 2
 script = ExtResource("1_15eis")
 
 [node name="Menu" type="VBoxContainer" parent="."]
-layout_mode = 0
-offset_right = 40.0
-offset_bottom = 40.0
+layout_mode = 1
+anchors_preset = -1
+offset_left = 96.0
+offset_top = 270.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.5, 0.5)
 alignment = 1
 
 [node name="NewGame" type="TextureButton" parent="Menu"]
 layout_mode = 2
+tooltip_text = "Text
+"
 texture_normal = ExtResource("3_5b1mr")
+texture_pressed = ExtResource("3_5b1mr")
+texture_hover = ExtResource("4_3oong")
 
 [node name="Continue" type="TextureButton" parent="Menu"]
 layout_mode = 2
 texture_normal = ExtResource("3_5b1mr")
+texture_pressed = ExtResource("3_5b1mr")
+texture_hover = ExtResource("4_3oong")
 
 [node name="Settings" type="TextureButton" parent="Menu"]
 layout_mode = 2
@@ -37,26 +47,39 @@ texture_hover = ExtResource("4_3oong")
 [node name="Exit" type="TextureButton" parent="Menu"]
 layout_mode = 2
 texture_normal = ExtResource("3_5b1mr")
+texture_pressed = ExtResource("3_5b1mr")
+texture_hover = ExtResource("4_3oong")
 
 [node name="Settings" type="VBoxContainer" parent="."]
-layout_mode = 2
-offset_top = 16.0
-offset_right = 40.0
-offset_bottom = 20.0
+layout_mode = 1
+anchors_preset = -1
+offset_left = 96.0
+offset_top = 202.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.5, 0.5)
 alignment = 1
 
 [node name="Sound" type="TextureButton" parent="Settings"]
 layout_mode = 2
 texture_normal = ExtResource("3_5b1mr")
+texture_pressed = ExtResource("3_5b1mr")
+texture_hover = ExtResource("4_3oong")
 
 [node name="Back" type="TextureButton" parent="Settings"]
 layout_mode = 2
 texture_normal = ExtResource("3_5b1mr")
+texture_pressed = ExtResource("3_5b1mr")
+texture_hover = ExtResource("4_3oong")
 
 [node name="Sound" type="VBoxContainer" parent="."]
-layout_mode = 0
-offset_right = 40.0
-offset_bottom = 60.0
+layout_mode = 1
+anchors_preset = -1
+offset_left = 96.0
+offset_top = 198.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.5, 0.5)
 
 [node name="Master" type="HSlider" parent="Sound"]
 layout_mode = 2
@@ -69,15 +92,15 @@ layout_mode = 2
 
 [node name="Back" type="TextureButton" parent="Sound"]
 layout_mode = 2
+texture_normal = ExtResource("3_5b1mr")
+texture_pressed = ExtResource("3_5b1mr")
+texture_hover = ExtResource("4_3oong")
 
 [node name="Background" type="TextureRect" parent="."]
 layout_mode = 0
-offset_right = 40.0
-offset_bottom = 40.0
-
-[node name="Label" type="Label" parent="."]
-layout_mode = 0
-offset_right = 40.0
+offset_left = -125.0
+offset_top = -17.0
+offset_right = -85.0
 offset_bottom = 23.0
 
 [node name="ClickAudio" type="AudioStreamPlayer" parent="."]
@@ -86,7 +109,10 @@ stream = ExtResource("1_woi6n")
 [node name="MenuAnimationPlayer" type="AnimationPlayer" parent="."]
 
 [node name="Camera2D" type="Camera2D" parent="."]
-zoom = Vector2(0.5, 0.5)
 
 [connection signal="pressed" from="Menu/NewGame" to="." method="_on_NewGame_pressed"]
 [connection signal="pressed" from="Menu/Settings" to="." method="_on_Settings_pressed"]
+[connection signal="pressed" from="Menu/Exit" to="." method="_on_Exit_pressed"]
+[connection signal="pressed" from="Settings/Sound" to="." method="_on_Sound_pressed"]
+[connection signal="pressed" from="Settings/Back" to="." method="_on_Back_pressed"]
+[connection signal="pressed" from="Sound/Back" to="." method="_on_Back2_pressed"]

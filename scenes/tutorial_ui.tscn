@@ -1,0 +1,70 @@
+[gd_scene load_steps=5 format=3 uid="uid://c48mxd2ir6s4o"]
+
+[ext_resource type="Texture2D" uid="uid://1jt4esvqk1e0" path="res://my_stuff/tutorial1.png" id="1_p4kbw"]
+[ext_resource type="Texture2D" uid="uid://dk7fl73c4n8cg" path="res://my_stuff/card2.png" id="1_t4i7q"]
+[ext_resource type="FontFile" uid="uid://b1ebjw7q6saw6" path="res://assets/Peaberry-Font-v2.0/Peaberry-Font-v2.0/Peaberry Font Family/Peaberry Base/Peaberry-Base.otf" id="3_mystj"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_g7d08"]
+
+[node name="TutorialUI" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = -1208.0
+offset_bottom = -366.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="TutorialBox" type="Panel" parent="."]
+layout_mode = 0
+offset_right = 581.0
+offset_bottom = 582.0
+theme_override_styles/panel = SubResource("StyleBoxEmpty_g7d08")
+
+[node name="NinePatchRect" type="NinePatchRect" parent="TutorialBox"]
+layout_mode = 0
+offset_left = 637.0
+offset_top = 138.0
+offset_right = 1335.0
+offset_bottom = 837.0
+texture = ExtResource("1_t4i7q")
+
+[node name="Title" type="Label" parent="TutorialBox/NinePatchRect"]
+layout_mode = 0
+offset_left = 262.0
+offset_top = 292.0
+offset_right = 446.0
+offset_bottom = 328.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("3_mystj")
+theme_override_font_sizes/font_size = 35
+text = "MOVEMENT
+"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="TutorialImage" type="TextureRect" parent="TutorialBox/NinePatchRect"]
+layout_mode = 0
+offset_left = 225.0
+offset_top = 128.0
+offset_right = 732.0
+offset_bottom = 429.0
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1_p4kbw")
+
+[node name="Description" type="Label" parent="TutorialBox/NinePatchRect"]
+layout_mode = 0
+offset_left = 183.0
+offset_top = 365.0
+offset_right = 517.0
+offset_bottom = 454.0
+theme_override_colors/font_color = Color(0.0177324, 0.0177324, 0.0177324, 1)
+theme_override_fonts/font = ExtResource("3_mystj")
+theme_override_font_sizes/font_size = 20
+text = "Welcome to the game! 
+Move around using WASD keys.
+
+Explore the world to progress!"
+horizontal_alignment = 1
+vertical_alignment = 1

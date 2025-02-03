@@ -73,10 +73,10 @@ script = ExtResource("1_5funs")
 [node name="ColorRect" type="ColorRect" parent="Control"]
 offset_right = 1152.0
 offset_bottom = 648.0
-color = Color(0, 0, 0, 1)
+color = Color(0, 0, 0, 0)
 
 [node name="Label" type="Label" parent="Control"]
-anchors_preset = -1
+anchors_preset = 8
 anchor_left = 0.5
 anchor_top = 0.5
 anchor_right = 0.5
